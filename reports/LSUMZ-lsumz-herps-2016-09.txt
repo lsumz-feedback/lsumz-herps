@@ -1,0 +1,268 @@
+Report for Institution Code LSUMZ, Resource lsumz-herps
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 180
+Number of records retrieved in searches: 2560
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 2
+	Country: Portugal ; Times: 10
+	Country: South Africa ; Times: 2
+	Country: Mexico ; Times: 18
+	Country: United States ; Times: 100
+	Country: Germany ; Times: 5
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 33
+	Country: Puerto Rico ; Times: 1
+	Country: Belgium ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-01 ; Times: 28
+	Date: 2016-09-13 ; Times: 10
+	Date: 2016-09-12 ; Times: 7
+	Date: 2016-09-11 ; Times: 11
+	Date: 2016-09-10 ; Times: 3
+	Date: 2016-09-08 ; Times: 13
+	Date: 2016-09-09 ; Times: 38
+	Date: 2016-09-14 ; Times: 5
+	Date: 2016-09-04 ; Times: 13
+	Date: 2016-09-23 ; Times: 1
+	Date: 2016-09-05 ; Times: 4
+	Date: 2016-09-07 ; Times: 22
+	Date: 2016-09-26 ; Times: 3
+	Date: 2016-09-06 ; Times: 10
+	Date: 2016-09-02 ; Times: 9
+	Date: 2016-09-03 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Anolis chrysolepis 1" ; Times: 2
+	Query: "Anolis petersii 1" ; Times: 1
+	Query: "Macroprotodon cucullatus 1" ; Times: 1
+	Query: "genus:Uromastyx order:Squamata tissue:1" ; Times: 1
+	Query: "spea arizona pima" ; Times: 4
+	Query: "Pantherophis spiloides specificepithet:spiloides genus:Pantherophis mappable:1" ; Times: 1
+	Query: "Graptemys geographica 1" ; Times: 1
+	Query: "Anolis tropidolepis 1" ; Times: 1
+	Query: "plestiodon tetragrammus" ; Times: 2
+	Query: "sphenodon" ; Times: 1
+	Query: "Anolis sericeus 1" ; Times: 1
+	Query: "77230" ; Times: 1
+	Query: "genus:Rhinoderma specificepithet:darwinii" ; Times: 2
+	Query: "spea multiplicata new mexico" ; Times: 1
+	Query: "Urosaurus ornatus Sinaloa" ; Times: 2
+	Query: "chelydra tissue:1" ; Times: 1
+	Query: "Anolis punctatus 1" ; Times: 1
+	Query: "pantherophis institutioncode:LSUMZ tissue:1" ; Times: 1
+	Query: "82991" ; Times: 1
+	Query: "Porthidium lansbergii" ; Times: 2
+	Query: "Agkistrodon contortrix texas (tissue)" ; Times: 1
+	Query: "Hyla plicata" ; Times: 1
+	Query: "Mabuya quinquetaeniata institutioncode:LSUMZ tissue:1" ; Times: 1
+	Query: "solomonis family:Scincidae country:&#34;New Guinea&#34; institutioncode:LSUMZ tissue:1" ; Times: 1
+	Query: "Mabuya perrotetii institutioncode:LSUMZ tissue:1" ; Times: 1
+	Query: "specificepithet:sagrei genus:Anolis stateprovince:&#34;Florida&#34; continent:North America mappable:1" ; Times: 2
+	Query: "Bolitoglossa platydactyla" ; Times: 1
+	Query: "specificepithet:tigris genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "catalognumber:12498" ; Times: 1
+	Query: "Phrynosoma stateprovince:&#34;Guerrero&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Micrurus locality:Palenque country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Aneides flavipunctatus stateprovince:&#34;California&#34; year &gt;= 1965 year &lt;= 1966" ; Times: 1
+	Query: "institutioncode:LSUMZ" ; Times: 1
+	Query: "osteopilus" ; Times: 1
+	Query: "Gastrophryne usta" ; Times: 1
+	Query: "country:&#34;New Guinea&#34; institutioncode:LSUMZ tissue:1" ; Times: 1
+	Query: "(Scincidae) institutioncode:LSUMZ tissue:1" ; Times: 1
+	Query: "specificepithet:flavescens genus:kinosternon family:kinosternidae stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "family:Scincidae country:&#34;New Guinea&#34; institutioncode:LSUMZ tissue:1" ; Times: 3
+	Query: "family:Typhlopidae AND (NOT braminus) tissue:1" ; Times: 1
+	Query: "Anolis fuscoauratus 1" ; Times: 1
+	Query: "sceloporus undulatus el paso" ; Times: 1
+	Query: "Meizodon" ; Times: 2
+	Query: "Anolis limifrons 1" ; Times: 12
+	Query: "crotalus lepidus" ; Times: 1
+	Query: "(thamnophis) institutioncode:LSUMZ tissue:1" ; Times: 1
+	Query: "smaragdina family:Scincidae country:&#34;New Guinea&#34; (Milne Bay) institutioncode:LSUMZ tissue:1" ; Times: 1
+	Query: "Anolis oxylophus 1" ; Times: 1
+	Query: "Anolis uniformis 1" ; Times: 1
+	Query: "Pantherophis guttatus specificepithet:guttatus genus:Pantherophis mappable:1" ; Times: 1
+	Query: "Rana vibicaria" ; Times: 1
+	Query: "Coniophanes lateritius" ; Times: 1
+	Query: "27582" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Texas&#34; tissue:1" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma tissue:1" ; Times: 1
+	Query: "70064" ; Times: 1
+	Query: "Eleutherodactylus cystignathoides" ; Times: 1
+	Query: "sistrurus North Carolina" ; Times: 1
+	Query: "spea bombifrons new mexico" ; Times: 1
+	Query: "Thamnophis cyrtopsis Sinaloa" ; Times: 2
+	Query: "specificepithet:attenuatus genus:Ophisaurus family:Anguidae tissue:1" ; Times: 1
+	Query: "Hyalinobatrachium fleischmanni" ; Times: 1
+	Query: "specificepithet:woodhousii genus:Bufo stateprovince:&#34;New Hampshire&#34;" ; Times: 1
+	Query: "basiliscus plumifrons" ; Times: 2
+	Query: "Anolis cupreus 1" ; Times: 2
+	Query: "Lampropeltis triangulum Arizona" ; Times: 1
+	Query: "crotalus horridus new york" ; Times: 2
+	Query: "Eleutherodactylus portoricensis" ; Times: 1
+	Query: "Anolis quercorum  1" ; Times: 1
+	Query: "pituophis institutioncode:LSUMZ tissue:1" ; Times: 1
+	Query: "gopherus berlandieri" ; Times: 1
+	Query: "Drymarchon melanurus" ; Times: 1
+	Query: "specificepithet:elegans genus:Micrurus stateprovince:&#34;Chiapas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Discoglossus pictus 1" ; Times: 3
+	Query: "Anolis nebulosus 1" ; Times: 1
+	Query: "farancia institutioncode:LSUMZ tissue:1" ; Times: 1
+	Query: "(Scincidae) institutioncode:LSUMZ" ; Times: 1
+	Query: "Scincella gemmingeri" ; Times: 1
+	Query: "specificepithet:acutus genus:Deinagkistrodon" ; Times: 1
+	Query: "specificepithet:feae genus:Azemiops" ; Times: 1
+	Query: "genus:Bogertophis tissue:1" ; Times: 1
+	Query: "LSUMZ 9907" ; Times: 2
+	Query: "urosaurus ornatus Sinaloa" ; Times: 1
+	Query: "rhinophis tissue:1" ; Times: 2
+	Query: "maricopa county mitchellii" ; Times: 1
+	Query: "Uropeltidae tissue:1" ; Times: 1
+	Query: "Pantherophis tissue:1" ; Times: 1
+	Query: "72673" ; Times: 1
+	Query: "thamnophis sirtalis institutioncode:LSUMZ tissue:1" ; Times: 1
+	Query: "Leptodeira splendida" ; Times: 1
+	Query: "Sceloporus ornatus" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:Rana stateprovince:&#34;New Hampshire&#34; continent:North America" ; Times: 1
+	Query: "jobiensis family:Scincidae country:&#34;New Guinea&#34; institutioncode:LSUMZ tissue:1" ; Times: 2
+	Query: "genus:Aparasphenodon country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Bufo hemiophrys" ; Times: 2
+	Query: "specificepithet:mitchellii genus:crotalus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "family:Typhlopidae tissue:1" ; Times: 1
+	Query: "specificepithet:Atrox genus:Crotalus stateprovince:&#34;Texas&#34; tissue:1" ; Times: 1
+	Query: "Rana catesbeiana 1" ; Times: 1
+	Query: "Anolis barkeri 1" ; Times: 1
+	Query: "Plethodon vandykei" ; Times: 1
+	Query: "Anolis pentaprion 1" ; Times: 1
+	Query: "anilius scytale tissue:1" ; Times: 2
+	Query: "Aneides flavipunctatus stateprovince:&#34;California&#34; year &gt;= 1960 year &lt;= 1965" ; Times: 1
+	Query: "Coleonyx reticulatus" ; Times: 2
+	Query: "Anolis pentaprion pentaprion 1" ; Times: 1
+	Query: "21963" ; Times: 1
+	Query: "smaragdina family:Scincidae country:&#34;New Guinea&#34; (East Cape) institutioncode:LSUMZ tissue:1" ; Times: 1
+	Query: "Typhlops tissue:1" ; Times: 1
+	Query: "69273" ; Times: 1
+	Query: "specificepithet:punctatus locality:Cerra" ; Times: 1
+	Query: "Lipinia family:Scincidae country:&#34;New Guinea&#34; institutioncode:LSUMZ tissue:1" ; Times: 1
+	Query: "LSUMZ 1030" ; Times: 1
+	Query: "Rana catesbeiana  1" ; Times: 1
+	Query: "Testudo graeca 1" ; Times: 2
+	Query: "Podarcis sicula 1" ; Times: 1
+	Query: "smaragdina family:Scincidae country:&#34;New Guinea&#34; institutioncode:LSUMZ tissue:1" ; Times: 1
+	Query: "Amphisbaena institutioncode:LSUMZ tissue:1" ; Times: 1
+	Query: "Plectrurus" ; Times: 1
+	Query: "specificepithet:cyanogenys genus:Sceloporus family:Phrynosomatidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "jobiensis family:Scincidae country:&#34;New Guinea&#34; (East Cape) institutioncode:LSUMZ tissue:1" ; Times: 1
+	Query: "Anolis rodriguezii 1" ; Times: 1
+	Query: "Farancia abacura specificepithet:abacura genus:Farancia year &gt;= 1980 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "Sceloporus samcolemani" ; Times: 1
+	Query: "Leptotyphlops tissue:1" ; Times: 1
+	Query: "crocodylus niloticus" ; Times: 1
+	Query: "specificepithet:bifrontata genus:Ameiva" ; Times: 1
+	Query: "Aneides flavipunctatus stateprovince:&#34;California&#34; year &gt;= 1967 year &lt;= 1968 month &gt;= 6 month &lt;= 9" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 2
+	Query: "Aneides flavipunctatus stateprovince:&#34;California&#34; year &gt;= 1945 year &lt;= 1950" ; Times: 1
+	Query: "Anolis sagrei 1" ; Times: 2
+	Query: "Uromastyx institutioncode:LSUMZ tissue:1" ; Times: 1
+	Query: "Phrynosoma ditmarsi" ; Times: 1
+	Query: "44736" ; Times: 1
+	Query: "Amastridium" ; Times: 2
+	Query: "type:specimen specificepithet:sagrei genus:Anolis country:&#34;United States&#34; continent:North America" ; Times: 2
+	Query: "anelytropsis" ; Times: 1
+	Query: "Anolis sericeus sericeus 1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 56 (out of 811 download events in this period)
+Total number of records downloaded: 6484
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 25
+	Country: Mexico ; Times: 19
+	Country: United Kingdom ; Times: 4
+	Country: Colombia ; Times: 2
+	Country: Puerto Rico ; Times: 2
+	Country: Thailand ; Times: 2
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 7
+	Date: 2016-09-12 ; Times: 3
+	Date: 2016-09-11 ; Times: 3
+	Date: 2016-09-10 ; Times: 2
+	Date: 2016-09-08 ; Times: 5
+	Date: 2016-09-09 ; Times: 13
+	Date: 2016-09-14 ; Times: 5
+	Date: 2016-09-05 ; Times: 6
+	Date: 2016-09-06 ; Times: 1
+	Date: 2016-09-07 ; Times: 4
+	Date: 2016-09-01 ; Times: 2
+	Date: 2016-09-02 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "anolis tropidonotus" ; Times: 1
+	Query: "Eleutherodactylus coqui year &gt;= 1965 year &lt;= 1970" ; Times: 1
+	Query: "anolis capito" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "Eleutherodactylus portoricensis" ; Times: 1
+	Query: "uropeltis" ; Times: 1
+	Query: "Pseudoeurycea leprosa" ; Times: 1
+	Query: "&#34;Lepidophyma flavimaculatum&#34;" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "Agalychnis moreletii" ; Times: 2
+	Query: "Rhinophis" ; Times: 1
+	Query: "specificepithet:cyanogenys genus:Sceloporus family:Phrynosomatidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "hyla eximia" ; Times: 1
+	Query: "Chiropterotriton chiropterus" ; Times: 1
+	Query: "chiropterotriton" ; Times: 1
+	Query: "anolis lemurinus" ; Times: 1
+	Query: "rana boylii" ; Times: 1
+	Query: "specificepithet:olivaceus genus:Sceloporus family:Phrynosomatidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "pseudoeurycea leprosa" ; Times: 1
+	Query: "Rhyacotriton variegatus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Pantherophis tissue:1" ; Times: 1
+	Query: "bufo woodhousii" ; Times: 1
+	Query: "specificepithet:viridescens genus:Notophthalmus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "clelia" ; Times: 2
+	Query: "eleutherodactylus nitidus" ; Times: 1
+	Query: "Rhinophrynus" ; Times: 1
+	Query: "rana pipiens" ; Times: 1
+	Query: "order:Testudines stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:Rana stateprovince:&#34;New Hampshire&#34; continent:North America" ; Times: 1
+	Query: "Pseudoeurycea cephalica" ; Times: 1
+	Query: "sistrurus North Carolina" ; Times: 1
+	Query: "pseudoeurycea bellii" ; Times: 1
+	Query: "Bufo hemiophrys" ; Times: 1
+	Query: "hemidactylus continent:america tissue:1" ; Times: 1
+	Query: "Sceloporus oberon" ; Times: 1
+	Query: "hyla euphorbiacea" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "Plectrurus" ; Times: 1
+	Query: "Lampropeltis triangulum Arizona" ; Times: 1
+	Query: "bufo occidentalis" ; Times: 1
+	Query: "Porthidium lansbergii" ; Times: 1
+	Query: "Hyla plicata" ; Times: 1
+	Query: "Phrynosoma douglasii" ; Times: 1
+	Query: "thailand" ; Times: 2
+	Query: "uropeltidae" ; Times: 1
+	Query: "type:specimen country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:quadridigitata genus:Eurycea stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "hyla arenicolor" ; Times: 1
+	Query: "Lithodytes lineatus" ; Times: 1
+	Query: "Pedioplanis namaquensis" ; Times: 1
+	Query: "hemidactylus continent:africa tissue:1" ; Times: 1
+	Query: "specificepithet:sagrei genus:Anolis stateprovince:&#34;Florida&#34; continent:North America mappable:1" ; Times: 1
+
+
+End of report.
