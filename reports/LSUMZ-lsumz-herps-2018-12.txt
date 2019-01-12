@@ -1,0 +1,547 @@
+Report for Institution Code LSUMZ, Resource lsumz-herps
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 599
+Number of records retrieved in searches: 4335
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Ireland ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 4
+	Country: Peru ; Times: 20
+	Country: Argentina ; Times: 1
+	Country: El Salvador ; Times: 3
+	Country: China ; Times: 5
+	Country: Belgium ; Times: 2
+	Country: Germany ; Times: 6
+	Country: Spain ; Times: 3
+	Country: Netherlands ; Times: 1
+	Country: Philippines ; Times: 3
+	Country: United States ; Times: 474
+	Country: Sweden ; Times: 11
+	Country: French Guiana ; Times: 1
+	Country: Switzerland ; Times: 2
+	Country: Mexico ; Times: 22
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 11
+	Country: Colombia ; Times: 2
+	Country: Nicaragua ; Times: 23
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-26 ; Times: 22
+	Date: 2018-12-06 ; Times: 36
+	Date: 2018-12-19 ; Times: 28
+	Date: 2018-12-18 ; Times: 52
+	Date: 2018-12-30 ; Times: 7
+	Date: 2018-12-15 ; Times: 12
+	Date: 2018-12-14 ; Times: 8
+	Date: 2018-12-17 ; Times: 12
+	Date: 2018-12-16 ; Times: 11
+	Date: 2018-12-11 ; Times: 24
+	Date: 2018-12-10 ; Times: 5
+	Date: 2018-12-13 ; Times: 19
+	Date: 2018-12-12 ; Times: 35
+	Date: 2018-12-20 ; Times: 27
+	Date: 2018-12-21 ; Times: 13
+	Date: 2018-12-22 ; Times: 22
+	Date: 2018-12-23 ; Times: 94
+	Date: 2018-12-24 ; Times: 12
+	Date: 2018-12-25 ; Times: 24
+	Date: 2018-12-08 ; Times: 5
+	Date: 2018-12-09 ; Times: 17
+	Date: 2018-12-28 ; Times: 10
+	Date: 2018-12-29 ; Times: 6
+	Date: 2018-12-04 ; Times: 17
+	Date: 2018-12-05 ; Times: 19
+	Date: 2018-12-02 ; Times: 6
+	Date: 2018-12-03 ; Times: 46
+	Date: 2018-12-01 ; Times: 2
+	Date: 2018-12-07 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Typhlonectes specificepithet:compressicauda" ; Times: 1
+	Query: "catalognumber:7451 institutioncode:LSUMZ" ; Times: 2
+	Query: "Farancia louisiana natchitoches" ; Times: 1
+	Query: "Cnemidophorus sackii" ; Times: 1
+	Query: "Phyllomedusa bicolor" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;ica&#34;" ; Times: 2
+	Query: "Tropidonophis doriae" ; Times: 1
+	Query: "Leptophis diplotropis colima" ; Times: 1
+	Query: "Etheridgei louisiana" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; institutioncode:LSUMZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Megophrys stejnegeri" ; Times: 1
+	Query: "Thamnophis validus colima" ; Times: 1
+	Query: "genus:Andrias specificepithet:japonicus" ; Times: 1
+	Query: "35439" ; Times: 1
+	Query: "specificepithet:reticulatus genus:Coleonyx class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Toxicocalamus loriae" ; Times: 1
+	Query: "Cemophora louisiana vernon" ; Times: 1
+	Query: "specificepithet:ornata genus:pseudacris stateprovince:&#34;florida&#34; year &gt;= 1975" ; Times: 1
+	Query: "catalognumber:7374 institutioncode:LSUMZ" ; Times: 2
+	Query: "Leptodactylus melanonotus colima" ; Times: 2
+	Query: "Reptilia texas marion" ; Times: 1
+	Query: "catalognumber:73857 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:10033 institutioncode:LSUMZ" ; Times: 2
+	Query: "institutioncode:LSUMZ" ; Times: 3
+	Query: "46722" ; Times: 1
+	Query: "Pituophis louisiana vernon" ; Times: 1
+	Query: "specificepithet:plumifrons genus:basiliscus country:&#34;costa rica&#34;" ; Times: 2
+	Query: "specificepithet:HAMMONDII genus:spea locality:lakeside recordedby:wade year &gt;= 1952 year &lt;= 1952" ; Times: 1
+	Query: "Masticophis mentovarius colima" ; Times: 1
+	Query: "gastrophryne usta colima" ; Times: 1
+	Query: "catalognumber:88400 institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:novaeguineae genus:Lepidodactylus" ; Times: 2
+	Query: "Pseudacris Illinoensis" ; Times: 4
+	Query: "genus:Hemidactylium county:&#34;Wake&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Hydrosaurus vntype:specimen" ; Times: 7
+	Query: "specificepithet:septentrionalis genus:osteopilus institutioncode:LSUMZ" ; Times: 1
+	Query: "Micrurus louisiana bienville" ; Times: 1
+	Query: "Tropidonophis dendrophiops" ; Times: 1
+	Query: "genus:crotalus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; month &gt;= 5 month &lt;= 6" ; Times: 1
+	Query: "Rhinobothryum bovallii country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:texanus genus:cophosaurus county:&#34;brewster&#34; (170)" ; Times: 1
+	Query: "specificepithet:bibroni genus:Ptychadena hastissue:1" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Bexar&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:7373 institutioncode:LSUMZ" ; Times: 2
+	Query: "DOR order:Squamata county:&#34;oTERO&#34;" ; Times: 1
+	Query: "nerodia sipedon jackson county alabama" ; Times: 1
+	Query: "trimeresurus gramineus" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 2
+	Query: "smilisca baudinii colima" ; Times: 1
+	Query: "Cemophora louisiana natchitoches" ; Times: 1
+	Query: "Crotalus colima" ; Times: 1
+	Query: "Clemmys muhlenbergii" ; Times: 3
+	Query: "specificepithet:woodhousii genus:Bufo county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Leptodeira maculata colima" ; Times: 1
+	Query: "Triangulum Texas newton" ; Times: 1
+	Query: "genus:Plethodon stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "specificepithet:HAMMONDII genus:spea catalognumber:7115 institutioncode:LSUMZ" ; Times: 1
+	Query: "Reptilia louisiana sabine" ; Times: 1
+	Query: "echis carinatus india" ; Times: 1
+	Query: "Tantalophis" ; Times: 2
+	Query: "Micrurus colima" ; Times: 1
+	Query: "specificepithet:garmani genus:Anolis hassex:1" ; Times: 2
+	Query: "Tener Texas sabine" ; Times: 2
+	Query: "Heloderma horridum colima" ; Times: 1
+	Query: "genus:ptyas country:&#34;thailand&#34; hastissue:1" ; Times: 1
+	Query: "atheris nitschei" ; Times: 4
+	Query: "genus:Lampropeltis county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; month &gt;= 5 month &lt;= 6" ; Times: 1
+	Query: "bitis caudalis" ; Times: 1
+	Query: "catalognumber:7372 institutioncode:LSUMZ" ; Times: 3
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "Shinisaurus crocodilurus" ; Times: 1
+	Query: "95015" ; Times: 1
+	Query: "catalognumber:44434 institutioncode:LSUMZ" ; Times: 2
+	Query: "Micrurus Louisiana sabine" ; Times: 1
+	Query: "specificepithet:sagrei genus:Anolis hassex:1" ; Times: 1
+	Query: "Lampropeltis louisiana natchitoches" ; Times: 2
+	Query: "LSU 79080" ; Times: 1
+	Query: "Farancia louisiana bienville" ; Times: 1
+	Query: "Conophis vittatus colima" ; Times: 1
+	Query: "gyrinophilus new jersey" ; Times: 1
+	Query: "atropoides nummifer" ; Times: 2
+	Query: "Reptilia louisiana claiborne" ; Times: 2
+	Query: "catalognumber:44983" ; Times: 1
+	Query: "genus:Dicrodon" ; Times: 3
+	Query: "Gonatodes caudiscutatus" ; Times: 1
+	Query: "boa colima" ; Times: 1
+	Query: "Micrurus louisiana natchitoches" ; Times: 1
+	Query: "institutioncode:LSUMZ genus:Toxicocalamus" ; Times: 1
+	Query: "Bufo houstonensis" ; Times: 8
+	Query: "Micrurus louisiana vernon" ; Times: 1
+	Query: "Kinosternon integrum colima" ; Times: 1
+	Query: "telescopus fallax" ; Times: 1
+	Query: "Thamnophis cyrtopsis colima" ; Times: 1
+	Query: "atropoides" ; Times: 2
+	Query: "specificepithet:cooki genus:Anolis hassex:1" ; Times: 1
+	Query: "specificepithet:subterraneus genus:Gyrinophilus" ; Times: 1
+	Query: "Ruthveni louisiana" ; Times: 3
+	Query: "Ruthveni louisiana natchitoches" ; Times: 1
+	Query: "Farancia Louisiana pointe coupee" ; Times: 1
+	Query: "Ansonia muelleri" ; Times: 1
+	Query: "Deirochelys louisiana natchitoches" ; Times: 2
+	Query: "daboia" ; Times: 2
+	Query: "Salvadora mexicana colima" ; Times: 1
+	Query: "specificepithet:flagellum genus:Masticophis stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "Reptilia iberville" ; Times: 1
+	Query: "Rigida Louisiana iberville" ; Times: 1
+	Query: "sphenomorphus muelleri" ; Times: 2
+	Query: "Coluber louisiana vernon" ; Times: 1
+	Query: "Crocodylus moreletii" ; Times: 1
+	Query: "Leptodeira nigrofasciata" ; Times: 2
+	Query: "Rhinobothryum bovallii" ; Times: 55
+	Query: "Tropidonophis mcdowelli" ; Times: 1
+	Query: "catalognumber:44895 institutioncode:LSUMZ" ; Times: 2
+	Query: "vntype:specimen genus:anolis hassex:1" ; Times: 3
+	Query: "Etheridgei texas" ; Times: 1
+	Query: "Adamanteus Mississippi" ; Times: 5
+	Query: "Sphenomorphus pratti AND LSUMZ" ; Times: 1
+	Query: "catalognumber:56689 institutioncode:LSUMZ" ; Times: 2
+	Query: "Daboia siamensis" ; Times: 1
+	Query: "azemiops" ; Times: 1
+	Query: "Regina louisiana sabine" ; Times: 1
+	Query: "crotalus stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "naja naja india" ; Times: 2
+	Query: "Subrubrum Mississippi harrison" ; Times: 1
+	Query: "geochelone carbonaria" ; Times: 2
+	Query: "dicrodon holmbergi" ; Times: 8
+	Query: "Graptemys louisiana sabine" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:osteopilus institutioncode:LSUMZ hastissue:1" ; Times: 2
+	Query: "genus:ambystoma county:&#34;lane&#34; stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "catalognumber:56390 institutioncode:LSUMZ" ; Times: 2
+	Query: "genus:Rana specificepithet:montezumae" ; Times: 1
+	Query: "Cerastes gasperettii" ; Times: 1
+	Query: "Helicops pastazae" ; Times: 1
+	Query: "catalognumber:44891 institutioncode:LSUMZ" ; Times: 2
+	Query: "Regina louisiana natchitoches" ; Times: 1
+	Query: "class:Reptilia county:&#34;Kenedy&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Coniophanes piceivittis Honduras" ; Times: 1
+	Query: "Manolepis" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 2
+	Query: "Reptilia texas cass" ; Times: 2
+	Query: "specificepithet:montezumae family:ranidae" ; Times: 2
+	Query: "Desmognathus louisiana natchitoches" ; Times: 1
+	Query: "catalognumber:90288 institutioncode:LSUMZ" ; Times: 2
+	Query: "Sphenomorphus muelleri" ; Times: 1
+	Query: "Dolichophis caspius" ; Times: 1
+	Query: "Ctenosaura pectinata colima" ; Times: 1
+	Query: "79993" ; Times: 1
+	Query: "Reptilia louisiana bienville" ; Times: 1
+	Query: "Reptilia Texas angelina" ; Times: 1
+	Query: "Japalura splendida" ; Times: 1
+	Query: "Coniophanes Tabasco" ; Times: 1
+	Query: "Amphibia louisiana bienville" ; Times: 1
+	Query: "Deirochelys louisiana" ; Times: 12
+	Query: "devils river class:Reptilia county:&#34;val verde&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:macrochelys stateprovince:&#34;florida&#34; year &gt;= 1969" ; Times: 1
+	Query: "Cemophora louisiana bienville" ; Times: 1
+	Query: "Crotalus basiliscus colima" ; Times: 1
+	Query: "Deirochelys iberville" ; Times: 2
+	Query: "Storeria louisiana natchitoches" ; Times: 1
+	Query: "bufo mazatlanensis colima" ; Times: 1
+	Query: "genus:bothrops stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Farancia louisiana vernon" ; Times: 1
+	Query: "genus:Coleonyx county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; month &gt;= 5 month &lt;= 6" ; Times: 1
+	Query: "Reptilia Louisiana iberville" ; Times: 7
+	Query: "callopistes flavipunctatus" ; Times: 3
+	Query: "specificepithet:praesignis genus:Aristelliger country:&#34;Jamaica&#34;" ; Times: 1
+	Query: "catalognumber:30510 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:73823 institutioncode:LSUMZ" ; Times: 2
+	Query: "97312" ; Times: 1
+	Query: "specificepithet:elegans genus:coleonyx country:&#34;belize&#34;" ; Times: 1
+	Query: "genus:Callixalus specificepithet:pictus" ; Times: 2
+	Query: "genus:Hemidactylium stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:graciosus genus:Urosaurus stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Reptilia Louisiana caddo" ; Times: 3
+	Query: "Leiopelma" ; Times: 3
+	Query: "bufo marinus colima" ; Times: 1
+	Query: "Tropidonophis picturatus" ; Times: 1
+	Query: "Shinisaurus crocodilurus country:&#34;china&#34;" ; Times: 1
+	Query: "Trimorphodon biscutatus colima" ; Times: 1
+	Query: "catalognumber:73859 institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:equestris genus:Anolis hassex:1" ; Times: 1
+	Query: "bungarus caeruleus india" ; Times: 1
+	Query: "trimeresurus gramineus india" ; Times: 1
+	Query: "vntype:specimen specificepithet:petersii genus:anolis" ; Times: 1
+	Query: "Amphibia Mississippi forrest" ; Times: 4
+	Query: "Hemidactylus colima" ; Times: 1
+	Query: "pseudemys cameron" ; Times: 1
+	Query: "Scelotes fitzsimonsi" ; Times: 1
+	Query: "amethistina" ; Times: 2
+	Query: "Urosaurus auriculatus colima" ; Times: 1
+	Query: "bothriopsis pulchra" ; Times: 1
+	Query: "institutioncode:lsumz" ; Times: 1
+	Query: "Storeria louisiana sabine" ; Times: 1
+	Query: "catalognumber:35162 institutioncode:LSUMZ" ; Times: 2
+	Query: "uromastyx dispar" ; Times: 2
+	Query: "Reptilia Louisiana pointe coupee" ; Times: 1
+	Query: "Micrurus mississippi" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Kimble&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Takydromus sexlineatus country:&#34;china&#34;" ; Times: 1
+	Query: "Reptilia Louisiana natchitoches" ; Times: 6
+	Query: "Loxocemus bicolor colima" ; Times: 1
+	Query: "amphiesma stolata india" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Coluber louisiana sabine" ; Times: 1
+	Query: "33307" ; Times: 2
+	Query: "catalognumber:56077 institutioncode:LSUMZ" ; Times: 2
+	Query: "Subrubrum Mississippi" ; Times: 1
+	Query: "genus:tantilla county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; month &gt;= 5 month &lt;= 6" ; Times: 1
+	Query: "polychrus gutturosus" ; Times: 1
+	Query: "Tropidonophis novaeguineae" ; Times: 1
+	Query: "specificepithet:couchii genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "37809" ; Times: 1
+	Query: "bothriechis bicolor" ; Times: 1
+	Query: "Deirochelys Louisiana pointe coupee" ; Times: 1
+	Query: "porthidium ophryomegas" ; Times: 1
+	Query: "98592" ; Times: 1
+	Query: "VIPERA AMMODYTES vntype:specimen hastissue:1" ; Times: 1
+	Query: "catalognumber:7367 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:elegans genus:coleonyx stateprovince:&#34;veracruz&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "smilisca fodiens colima" ; Times: 1
+	Query: "genus:coleonyx country:&#34;belize&#34;" ; Times: 1
+	Query: "dicrodon" ; Times: 2
+	Query: "barisia colima" ; Times: 2
+	Query: "Tropidonophis dolasii" ; Times: 1
+	Query: "vntype:specimen specificepithet:pentaprion genus:anolis" ; Times: 1
+	Query: "Kaloula pulchra" ; Times: 1
+	Query: "Micrurus louisiana sabine" ; Times: 1
+	Query: "90486" ; Times: 1
+	Query: "catalognumber:80797 institutioncode:LSUMZ" ; Times: 3
+	Query: "genus:Xenosaurus stateprovince:&#34;San Luis Potosi&#34;" ; Times: 1
+	Query: "Pseudoleptodeira uribei" ; Times: 3
+	Query: "specificepithet:longitibialis genus:Anolis hassex:1" ; Times: 1
+	Query: "specificepithet:gigas genus:Hydrodynastes" ; Times: 1
+	Query: "causus rhombeatus" ; Times: 1
+	Query: "class:Reptilia county:&#34;Ontario&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Tropidonophis multiscutellatus" ; Times: 1
+	Query: "hastissue:1 Bothrops atrox" ; Times: 1
+	Query: "catalognumber:83616 institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Coluber louisiana bienville" ; Times: 1
+	Query: "Xenosaurus" ; Times: 2
+	Query: "Daboia" ; Times: 4
+	Query: "Reptilia texas morris" ; Times: 1
+	Query: "vipera berus" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:osteopilus hastissue:1" ; Times: 2
+	Query: "catalognumber:34901" ; Times: 1
+	Query: "catalognumber:41924 institutioncode:LSUMZ" ; Times: 2
+	Query: "Callulops doriae" ; Times: 1
+	Query: "specificepithet:lepidus genus:Crotalus stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Reptilia Louisiana webster" ; Times: 4
+	Query: "sistrurus jackson" ; Times: 1
+	Query: "Crotalus tigris sonora" ; Times: 2
+	Query: "catalognumber:88883 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:44435 institutioncode:LSUMZ" ; Times: 2
+	Query: "Lampropeltis colima" ; Times: 1
+	Query: "45926" ; Times: 3
+	Query: "lsumz 48852" ; Times: 2
+	Query: "trachycephalus colima" ; Times: 1
+	Query: "Amphibia Mississippi perry" ; Times: 1
+	Query: "34884" ; Times: 1
+	Query: "Dekayi louisiana natchitoches" ; Times: 1
+	Query: "Trimeresurus purpureomaculatus" ; Times: 1
+	Query: "crotalus tzabcan" ; Times: 1
+	Query: "specificepithet:poncensis genus:Anolis hassex:1" ; Times: 1
+	Query: "Sistrurus louisiana natchitoches" ; Times: 1
+	Query: "Dekayi louisiana vernon" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34; institutioncode:LSUMZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:41055 institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:porcatus genus:Anolis lifestage:Adult hassex:1" ; Times: 1
+	Query: "specificepithet:hammondii genus:Thamnophis county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Ptychoglossus brevifrontalis" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Bastrop&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Dicamptodon county:&#34;San Mateo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Coniophanes schmidti Chiapas" ; Times: 1
+	Query: "catalognumber:88402 institutioncode:LSUMZ" ; Times: 3
+	Query: "Sphenomorphus pratti" ; Times: 1
+	Query: "Daboia palestinae" ; Times: 1
+	Query: "Farancia louisiana sabine" ; Times: 1
+	Query: "Lepidophyma smithi" ; Times: 1
+	Query: "Pituophis Mississippi" ; Times: 2
+	Query: "vntype:specimen genus:anolis continent:America hassex:1" ; Times: 1
+	Query: "lycodon travancoricus india" ; Times: 1
+	Query: "bothriopsis" ; Times: 1
+	Query: "specificepithet:ornata genus:pseudacris stateprovince:&#34;florida&#34; year &gt;= 1985" ; Times: 1
+	Query: "Hemidactylus frenatus colima" ; Times: 1
+	Query: "catalognumber:82672 institutioncode:LSUMZ" ; Times: 3
+	Query: "Leptodeira nigrofasciata Nicaragua" ; Times: 1
+	Query: "Drymobius margaritiferus colima" ; Times: 1
+	Query: "Reptilia Mississippi perry" ; Times: 2
+	Query: "Draco maculatus country:&#34;china&#34;" ; Times: 1
+	Query: "Micrurus Mississippi" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Reptilia Louisiana sabine" ; Times: 1
+	Query: "CALLOPISTES FLAVIPUNCTATUS" ; Times: 1
+	Query: "catalognumber:44983 institutioncode:LSUMZ" ; Times: 4
+	Query: "Clarkii Mississippi" ; Times: 1
+	Query: "specificepithet:cooki genus:Anolis sex:Male hassex:1" ; Times: 1
+	Query: "specificepithet:cochranae genus:Pseudoeurycea" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Atascosa&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Farancia Louisiana sabine" ; Times: 1
+	Query: "Triangulum louisiana vernon" ; Times: 1
+	Query: "catalognumber:45775 institutioncode:LSUMZ" ; Times: 2
+	Query: "genus:thecadactylus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:45774 institutioncode:LSUMZ" ; Times: 2
+	Query: "dryophiops" ; Times: 1
+	Query: "catalognumber:7366 institutioncode:LSUMZ" ; Times: 3
+	Query: "Tropidonophis statisticus" ; Times: 1
+	Query: "boiga trigonata india" ; Times: 1
+	Query: "catalognumber:86723 institutioncode:LSUMZ" ; Times: 2
+	Query: "Amphibia louisiana natchitoches" ; Times: 1
+	Query: "Triangulum Louisiana pointe coupee" ; Times: 3
+	Query: "Farancia Louisiana iberville" ; Times: 1
+	Query: "uta 31827" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Adamanteus Mississippi forrest" ; Times: 1
+	Query: "Deirochelys louisiana vernon" ; Times: 1
+	Query: "Reptilia Mississippi forrest" ; Times: 2
+	Query: "xantusia gracilis" ; Times: 2
+	Query: "catalognumber:7375 institutioncode:LSUMZ" ; Times: 3
+	Query: "Graptemys louisiana vernon" ; Times: 1
+	Query: "heloderma horridum" ; Times: 1
+	Query: "catalognumber:88802 institutioncode:LSUMZ" ; Times: 2
+	Query: "ambystoma texanum vntype:specimen hastissue:1" ; Times: 2
+	Query: "atheris squamiger" ; Times: 3
+	Query: "Farancia Louisiana natchitoches" ; Times: 1
+	Query: "Deirochelys texas" ; Times: 2
+	Query: "specificepithet:aquaticus genus:anolis country:&#34;costa rica&#34;" ; Times: 1
+	Query: "Deirochelys mississippi" ; Times: 3
+	Query: "Sistrurus louisiana vernon" ; Times: 1
+	Query: "Sistrurus louisiana bienville" ; Times: 1
+	Query: "Rana forreri colima" ; Times: 1
+	Query: "Coluber louisiana natchitoches" ; Times: 1
+	Query: "Plethodon county:&#34;Morris&#34; stateprovince:&#34;New Jersey&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Reptilia Louisiana bossier" ; Times: 1
+	Query: "Regina louisiana vernon" ; Times: 2
+	Query: "Tropidurus semitaeniatus" ; Times: 10
+	Query: "Anolis nebulosus colima" ; Times: 1
+	Query: "basiliscus vittatus colima" ; Times: 1
+	Query: "catalognumber:80141 institutioncode:LSUMZ" ; Times: 4
+	Query: "Oxyrhopus Mexico" ; Times: 1
+	Query: "Rigida Louisiana natchitoches" ; Times: 3
+	Query: "specificepithet:graciosus genus:Urosaurus stateprovince:&#34;Arizona&#34; year &gt;= 1900 year &lt;= 1980" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:bicolor" ; Times: 2
+	Query: "Mastigodryas melanolomus colima" ; Times: 1
+	Query: "Imantodes lentiferus" ; Times: 2
+	Query: "bufo marmoreus colima" ; Times: 2
+	Query: "pereger institutioncode:LSUMZ" ; Times: 1
+	Query: "Pituophis deppei colima" ; Times: 1
+	Query: "Conraua goliath" ; Times: 1
+	Query: "137 class:Reptilia county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Lachesis muta" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 81 (out of 809 download events in this period)
+Total number of records downloaded: 10102
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 13
+	Country: Unknown ; Times: 2
+	Country: Philippines ; Times: 1
+	Country: Indonesia ; Times: 2
+	Country: United States ; Times: 41
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 6
+	Country: Ireland ; Times: 1
+	Country: China ; Times: 7
+	Country: Taiwan ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-06 ; Times: 3
+	Date: 2018-12-18 ; Times: 1
+	Date: 2018-12-31 ; Times: 2
+	Date: 2018-12-30 ; Times: 1
+	Date: 2018-12-16 ; Times: 1
+	Date: 2018-12-11 ; Times: 3
+	Date: 2018-12-10 ; Times: 2
+	Date: 2018-12-07 ; Times: 8
+	Date: 2018-12-12 ; Times: 8
+	Date: 2018-12-13 ; Times: 1
+	Date: 2018-12-20 ; Times: 3
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-22 ; Times: 16
+	Date: 2018-12-23 ; Times: 1
+	Date: 2018-12-24 ; Times: 1
+	Date: 2018-12-08 ; Times: 1
+	Date: 2018-12-09 ; Times: 1
+	Date: 2018-12-28 ; Times: 3
+	Date: 2018-12-29 ; Times: 1
+	Date: 2018-12-04 ; Times: 6
+	Date: 2018-12-05 ; Times: 4
+	Date: 2018-12-02 ; Times: 1
+	Date: 2018-12-03 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Molossus molossus" ; Times: 1
+	Query: "Nerodia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Cnemidophorus sackii" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "locality:malheur stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "testudo hermanni" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "desmognathus wrighti" ; Times: 1
+	Query: "Macrochelys temminckii" ; Times: 1
+	Query: "gopherus flavomarginatus" ; Times: 1
+	Query: "helicops" ; Times: 1
+	Query: "crotalus durissus" ; Times: 1
+	Query: "Anolis crassulus" ; Times: 1
+	Query: "specificepithet:montezumae family:ranidae" ; Times: 1
+	Query: "specificepithet:capito family:Ranidae" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;ica&#34;" ; Times: 1
+	Query: "specificepithet:gigas genus:Hydrodynastes" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "VIPERA AMMODYTES vntype:specimen hastissue:1" ; Times: 1
+	Query: "specificepithet:browni genus:Phyllorhynchus" ; Times: 1
+	Query: "telescopus fallax" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "rana blairi" ; Times: 1
+	Query: "genus:Eurycea longicauda longicauda stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Clemmys marmorata" ; Times: 1
+	Query: "Anolis cristatellus" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "genus:Desmognathus brimleyorum stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 1
+	Query: "vietnam" ; Times: 1
+	Query: "Japalura swinhonis country:&#34;taiwan&#34;" ; Times: 1
+	Query: "uma exsul" ; Times: 1
+	Query: "genus:Colostethus country:&#34;Peru&#34;" ; Times: 1
+	Query: "Draco maculatus country:&#34;china&#34;" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus year &gt;= 2000 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Megophryidae" ; Times: 2
+	Query: "order:Testudines" ; Times: 1
+	Query: "Smilisca (Pternohyla) fodiens" ; Times: 2
+	Query: "Anolis biporcatus" ; Times: 1
+	Query: "vipera ammodytes" ; Times: 1
+	Query: "Sphenomorphus pratti AND LSUMZ" ; Times: 1
+	Query: "amethistina" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "vntype:specimen class:Reptilia stateprovince:&#34;Guerrero&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "crotalus tzabcan" ; Times: 1
+	Query: "genus:Eurycea lucifuga stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "gastrotheca" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "ophiophagus" ; Times: 1
+	Query: "vntype:specimen order:Squamata class:Reptilia country:&#34;Belize&#34;" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "Anolis allisoni" ; Times: 1
+	Query: "Japalura splendida" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "ansonia muelleri" ; Times: 1
+	Query: "Hydrosaurus vntype:specimen" ; Times: 1
+	Query: "Takydromus stejnegeri country:&#34;taiwan&#34;" ; Times: 1
+	Query: "Anolis tropidonotus" ; Times: 1
+	Query: "Anolis capito" ; Times: 1
+	Query: "genus:Eurycea tynerensis stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Takydromus sexlineatus country:&#34;china&#34;" ; Times: 1
+	Query: "Shinisaurus crocodilurus country:&#34;china&#34;" ; Times: 1
+	Query: "Plestiodon chinensis" ; Times: 1
+	Query: "Naja atra" ; Times: 1
+	Query: "genus:Cnemidophorus hastissue:1" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen genus:hemidactylus frenatus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Aneides flavipunctatus" ; Times: 1
+	Query: "vntype:specimen class:reptilia AND (NOT PARATYPE) hastypestatus:1" ; Times: 1
+	Query: "Aneides flavipunctatus Shasta" ; Times: 1
+
+
+End of report.
