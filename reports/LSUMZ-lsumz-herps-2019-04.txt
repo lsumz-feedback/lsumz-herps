@@ -1,0 +1,533 @@
+Report for Institution Code LSUMZ, Resource lsumz-herps
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 512
+Number of records retrieved in searches: 2040
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 30
+	Country: Canada ; Times: 4
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Bangladesh ; Times: 2
+	Country: South Africa ; Times: 4
+	Country: Denmark ; Times: 5
+	Country: Mexico ; Times: 26
+	Country: India ; Times: 11
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 9
+	Country: Belgium ; Times: 4
+	Country: Sweden ; Times: 73
+	Country: Germany ; Times: 7
+	Country: Peru ; Times: 1
+	Country: Greece ; Times: 2
+	Country: Paraguay ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: United States ; Times: 316
+	Country: Argentina ; Times: 6
+	Country: Switzerland ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-22 ; Times: 9
+	Date: 2019-04-19 ; Times: 8
+	Date: 2019-04-18 ; Times: 14
+	Date: 2019-04-05 ; Times: 35
+	Date: 2019-04-13 ; Times: 2
+	Date: 2019-04-12 ; Times: 4
+	Date: 2019-04-11 ; Times: 19
+	Date: 2019-04-10 ; Times: 12
+	Date: 2019-04-17 ; Times: 24
+	Date: 2019-04-16 ; Times: 17
+	Date: 2019-04-15 ; Times: 17
+	Date: 2019-04-14 ; Times: 16
+	Date: 2019-04-30 ; Times: 30
+	Date: 2019-04-21 ; Times: 6
+	Date: 2019-04-01 ; Times: 29
+	Date: 2019-04-02 ; Times: 23
+	Date: 2019-04-03 ; Times: 13
+	Date: 2019-04-06 ; Times: 30
+	Date: 2019-04-04 ; Times: 6
+	Date: 2019-04-23 ; Times: 14
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-07 ; Times: 4
+	Date: 2019-04-26 ; Times: 29
+	Date: 2019-04-27 ; Times: 2
+	Date: 2019-04-24 ; Times: 11
+	Date: 2019-04-25 ; Times: 13
+	Date: 2019-04-28 ; Times: 1
+	Date: 2019-04-29 ; Times: 27
+	Date: 2019-04-08 ; Times: 46
+	Date: 2019-04-09 ; Times: 50
+
+List of queries that retrieved data from the resource: 
+	Query: "47737" ; Times: 1
+	Query: "class:Reptilia locality:Monterrey stateprovince:&#34;Nuevo Leon&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Atascosa&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Thamnophis institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "84999" ; Times: 1
+	Query: "LSUMZ" ; Times: 2
+	Query: "LSUMZ 94132" ; Times: 2
+	Query: "catalognumber:12666 institutioncode:LSUMZ" ; Times: 1
+	Query: "75419" ; Times: 1
+	Query: "uma arizona" ; Times: 1
+	Query: "LSUMZ 87045" ; Times: 2
+	Query: "genus:bothrops stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "LSUMZ 42655" ; Times: 2
+	Query: "50360" ; Times: 1
+	Query: "catalognumber:10730 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:21847 institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Eurycea county:&#34;Graham&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "tomistoma" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Brazoria&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "catalognumber:33072" ; Times: 1
+	Query: "family:Anguidae institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "Sitana" ; Times: 1
+	Query: "specificepithet:costatus genus:Cnemidophorus" ; Times: 1
+	Query: "micrurus tingo maria" ; Times: 1
+	Query: "Apostolepis" ; Times: 1
+	Query: "genus:lampropeltis county:&#34;monterey&#34;" ; Times: 4
+	Query: "LSUMZ 93576" ; Times: 2
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:reptilia locality:castle dome stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:clarkii genus:Nerodia stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:holbrookii genus:Scaphiopus hastissue:1" ; Times: 1
+	Query: "Lycophidion laterale mappable:1" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Lavaca&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "LSUMZ 34130" ; Times: 2
+	Query: "specificepithet:sicula genus:podarcis" ; Times: 1
+	Query: "laemanctus" ; Times: 1
+	Query: "Pantherophis vulpinus" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Eastland&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "LSUMZ 86768" ; Times: 2
+	Query: "LSUMZ 94140" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Caldwell&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "LSUMZ 88934" ; Times: 1
+	Query: "specificepithet:natrix genus:Natrix continent:Europe year &gt;= 1985 year &lt;= 2019" ; Times: 2
+	Query: "corucia hastissue:1" ; Times: 1
+	Query: "genus:kinosternon stateprovince:&#34;nayarit&#34;" ; Times: 3
+	Query: "Ditmarsi sonora" ; Times: 1
+	Query: "specificepithet:cristatellus genus:anolis stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "80729" ; Times: 3
+	Query: "LSUMZ 48809" ; Times: 3
+	Query: "LSUMZ 83406" ; Times: 2
+	Query: "catalognumber:33045" ; Times: 1
+	Query: "48825" ; Times: 1
+	Query: "52661" ; Times: 2
+	Query: "catalognumber:33041" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:typhlopidae AND (NOT braminus) year &gt;= 1990 hastissue:1" ; Times: 2
+	Query: "specificepithet:scutulatus genus:Crotalus stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "LSUMZ 87409" ; Times: 2
+	Query: "Sibynomorphus turgidus" ; Times: 1
+	Query: "Crotalus catalinensis" ; Times: 1
+	Query: "genus:Leptodeira stateprovince:&#34;Jalisco&#34;" ; Times: 6
+	Query: "elapsoidea sundevallii" ; Times: 2
+	Query: "specificepithet:scutulatus genus:Crotalus county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:vagrans genus:aneides county:&#34;del norte&#34;" ; Times: 1
+	Query: "cordylus vittifer" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "catalognumber:61032 institutioncode:LSUMZ" ; Times: 1
+	Query: "claudius angustatus" ; Times: 1
+	Query: "Abronia" ; Times: 1
+	Query: "genus:Paedophryne institutioncode:LSUMZ" ; Times: 1
+	Query: "class:reptilia country:&#34;iraq&#34;" ; Times: 4
+	Query: "LSUMZ 93180" ; Times: 1
+	Query: "catalognumber:90043" ; Times: 1
+	Query: "Rhampholeon spectrum" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus county:&#34;Presidio&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:modestus genus:Leptopelis institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "genus:Telmatobius specificepithet:colanensis" ; Times: 1
+	Query: "specificepithet:sagrei genus:anolis stateprovince:&#34;Louisiana&#34; year &lt;= 1998" ; Times: 1
+	Query: "lsu 51137" ; Times: 1
+	Query: "specificepithet:deppii genus:Cnemidophorus" ; Times: 1
+	Query: "institutioncode:LSUMZ" ; Times: 2
+	Query: "genus:Siphonops specificepithet:annulatus" ; Times: 1
+	Query: "Causus maculatus mappable:1" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Florida&#34;" ; Times: 9
+	Query: "class:reptilia county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34; year &gt;= 1990" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Palo Pinto&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "abronia" ; Times: 1
+	Query: "LSUMZ catesbeiana" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Jefferson&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "specificepithet:sicula genus:Podarcis" ; Times: 1
+	Query: "specificepithet:carens genus:Schismaderma institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "catalognumber:32293" ; Times: 1
+	Query: "Leptopelis viridis" ; Times: 2
+	Query: "specificepithet:adolfifriederici genus:Arthroleptis institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "tomistoma schlegelii" ; Times: 2
+	Query: "Oxyrhopus erdisii" ; Times: 2
+	Query: "Xantusia gracilis" ; Times: 2
+	Query: "colubridae carrizal" ; Times: 1
+	Query: "specificepithet:truei genus:Ascaphus lifestage:larva" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Coryell&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Oxyrhopus marcapatae" ; Times: 2
+	Query: "53583" ; Times: 1
+	Query: "49917" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Comal&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "catalognumber:15230 institutioncode:LSUMZ" ; Times: 1
+	Query: "Crocodylus moreletii" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Liberty&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "58395" ; Times: 2
+	Query: "LSUMZ 59495" ; Times: 2
+	Query: "35132" ; Times: 1
+	Query: "catalognumber:29165 institutioncode:LSUMZ" ; Times: 2
+	Query: "Eleutherodactylus unicolor" ; Times: 1
+	Query: "specificepithet:bombina genus:Bombina institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "candoia bibroni" ; Times: 2
+	Query: "catalognumber:51900 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:munozorum genus:Hyalinobatrachium institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "genus:ambystoma preparations:skeleton institutioncode:LSUMZ" ; Times: 1
+	Query: "dendroaspis polylepis" ; Times: 1
+	Query: "(3597) institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Terrell&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Amphibia Texas willacy" ; Times: 3
+	Query: "specificepithet:multiplicata genus:Eurycea county:&#34;Pulaski&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "LSUMZ 95910" ; Times: 3
+	Query: "LSUMZ 86926" ; Times: 2
+	Query: "specificepithet:Triangulum stateprovince:&#34;Oklahoma&#34;" ; Times: 4
+	Query: "walterinnesia" ; Times: 1
+	Query: "64422" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Limestone&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "LSUMZ 98635" ; Times: 2
+	Query: "kirtlandii class:reptilia county:&#34;hamilton&#34; stateprovince:&#34;ohio&#34;" ; Times: 1
+	Query: "specificepithet:capito family:ranidae institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:21874 institutioncode:LSUMZ" ; Times: 2
+	Query: "genus:elgaria preparations:skeleton" ; Times: 11
+	Query: "catalognumber:22317 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:86105 institutioncode:LSUMZ" ; Times: 1
+	Query: "LSUMZ 36788" ; Times: 2
+	Query: "Gavialis gangeticus" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Presidio&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "lsumz 74112" ; Times: 2
+	Query: "catalognumber:28404 institutioncode:LSUMZ" ; Times: 1
+	Query: "LSUMZ 56709" ; Times: 2
+	Query: "Toxicodryas blandingii mappable:1" ; Times: 1
+	Query: "46954" ; Times: 1
+	Query: "LSUMZ 17485" ; Times: 2
+	Query: "LSUMZ 48825" ; Times: 2
+	Query: "75298" ; Times: 1
+	Query: "specificepithet:sagrei genus:anolis stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "LSUMZ 27252" ; Times: 1
+	Query: "LSUMZ 27253" ; Times: 1
+	Query: "LSUMZ 27254" ; Times: 1
+	Query: "genus:podarcis sicula" ; Times: 1
+	Query: "81285" ; Times: 1
+	Query: "class:Amphibia county:&#34;Jim Hogg&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:laredoensis genus:Cnemidophorus" ; Times: 1
+	Query: "LSUMZ 20031" ; Times: 2
+	Query: "lachesis muta" ; Times: 1
+	Query: "86174" ; Times: 2
+	Query: "catalognumber:8257 institutioncode:LSUMZ" ; Times: 1
+	Query: "Macropisthodon rudis" ; Times: 1
+	Query: "catalognumber:10727 institutioncode:LSUMZ" ; Times: 1
+	Query: "LSUMZ 96093" ; Times: 2
+	Query: "catalognumber:17027 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:Zonata genus:Lampropeltis county:&#34;Monterey&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:coerulea genus:elgaria preparations:skeleton" ; Times: 2
+	Query: "catalognumber:21857 institutioncode:LSUMZ" ; Times: 2
+	Query: "vipera aspis" ; Times: 4
+	Query: "LSUMZ 81111" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Philothamnus angolensis mappable:1" ; Times: 1
+	Query: "LSUMZ 81750" ; Times: 2
+	Query: "LSUMZ 94344" ; Times: 2
+	Query: "genus:Pituophis county:&#34;Burlington&#34; stateprovince:&#34;New Jersey&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:maura genus:natrix hastissue:1" ; Times: 1
+	Query: "specificepithet:colymbiphyllum genus:Hyalinobatrachium institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "57104" ; Times: 1
+	Query: "57105" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Cass&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Dallas&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "57103" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:holbrookii genus:Scaphiopus year &gt;= 1990 hastissue:1" ; Times: 1
+	Query: "catalognumber:20864" ; Times: 2
+	Query: "catalognumber:5742 institutioncode:LSUMZ" ; Times: 2
+	Query: "navajo county Phrynosoma" ; Times: 1
+	Query: "xantusia gracilis" ; Times: 1
+	Query: "specificepithet:borbonica genus:Leptophryne institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "class:Reptilia county:&#34;Borden&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus county:&#34;Parker&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus county:&#34;Culberson&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "49924" ; Times: 3
+	Query: "anelytropsis papillosus" ; Times: 3
+	Query: "Crotalus veracruz" ; Times: 2
+	Query: "10313" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Beaufort&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:43527" ; Times: 1
+	Query: "class:Reptilia county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34; year &gt;= 1990" ; Times: 1
+	Query: "catalognumber:84431 institutioncode:LSUMZ" ; Times: 1
+	Query: "frog farm catesbeiana" ; Times: 1
+	Query: "Crotalus culminatus" ; Times: 1
+	Query: "specificepithet:contortrix genus:agkistrodon hastissue:1" ; Times: 1
+	Query: "specificepithet:robustus genus:Trichobatrachus institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Sabine&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:erythrogaster stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Rana specificepithet:montezumae" ; Times: 2
+	Query: "genus:sistrurus stateprovince:&#34;illinois&#34;" ; Times: 2
+	Query: "class:reptilia country:&#34;India&#34; hastissue:1" ; Times: 1
+	Query: "navajo county crotaphytus" ; Times: 1
+	Query: "catalognumber:33096" ; Times: 1
+	Query: "stateprovince:&#34;Florida&#34; Pituophis" ; Times: 9
+	Query: "Atheris nitschei" ; Times: 2
+	Query: "specificepithet:cucullata genus:tantilla stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:alterna class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "genus:Lycophidion hastissue:1" ; Times: 1
+	Query: "LSUMZ 93701" ; Times: 3
+	Query: "shinisaurus" ; Times: 2
+	Query: "Reptilia Texas willacy" ; Times: 1
+	Query: "31709" ; Times: 1
+	Query: "genus:Leptotyphlops (stomach contents)" ; Times: 1
+	Query: "catalognumber:30820 institutioncode:LSUMZ" ; Times: 1
+	Query: "crotaphytus san luis potosi" ; Times: 1
+	Query: "vntype:specimen specificepithet:spectrum genus:Rhampholeon" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus county:&#34;Richland&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cophotis" ; Times: 1
+	Query: "Bothrops cotiara" ; Times: 3
+	Query: "Helicops hagmanni" ; Times: 1
+	Query: "Ohio Sistrurus catenatus" ; Times: 1
+	Query: "36394" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "LSUMZ 83493" ; Times: 4
+	Query: "LSUMZ 54361" ; Times: 2
+	Query: "specificepithet:reticulatus genus:coleonyx" ; Times: 1
+	Query: "genus:Homoroselaps tissue" ; Times: 4
+	Query: "specificepithet:spectrum genus:Rhampholeon" ; Times: 3
+	Query: "LSUMZ 98702" ; Times: 1
+	Query: "specificepithet:cisternasii genus:Alytes institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "specificepithet:illinoensis genus:Pseudacris institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 2
+	Query: "zamenis" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Colorado&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "dibamus" ; Times: 1
+	Query: "adelophis" ; Times: 1
+	Query: "specificepithet:multicarinata genus:elgaria preparations:skeleton" ; Times: 1
+	Query: "lsumz 93566" ; Times: 2
+	Query: "lsumz 88129" ; Times: 1
+	Query: "specificepithet:lima genus:occidozyga country:&#34;indonesia&#34;" ; Times: 2
+	Query: "LSUMZ 84795" ; Times: 2
+	Query: "catalognumber:33431 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:texanum genus:ambystoma stateprovince:&#34;missouri&#34;" ; Times: 3
+	Query: "LSUMZ 84130" ; Times: 2
+	Query: "35899" ; Times: 1
+	Query: "specificepithet:karissimbensis genus:Leptopelis institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Harris&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "catalognumber:18440 institutioncode:LSUMZ" ; Times: 3
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Hardin&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "catalognumber:18727 institutioncode:LSUMZ" ; Times: 2
+	Query: "goram" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus county:&#34;Kleberg&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Atractaspis tissue" ; Times: 1
+	Query: "specificepithet:illinoensis genus:Pseudacris institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 4
+	Query: "mimophis" ; Times: 2
+	Query: "catalognumber:47520 institutioncode:LSUMZ" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;Tennessee&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Crotalus aquilus" ; Times: 1
+	Query: "specificepithet:monticola genus:Mesaspis basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "catalognumber:27288 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:52412 institutioncode:LSUMZ" ; Times: 1
+	Query: "LSUMZ 98666" ; Times: 4
+	Query: "urosaurus wickenburg" ; Times: 2
+	Query: "callulops doriae" ; Times: 2
+	Query: "specificepithet:lineaticollis genus:Pituophis stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:91510 institutioncode:LSUMZ" ; Times: 1
+	Query: "LSUMZ 91197" ; Times: 2
+	Query: "genus:Pituophis county:&#34;Citrus&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "family:Colubridae institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:39052 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Bandera&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "LSUMZ 40152" ; Times: 2
+	Query: "feylinia currori" ; Times: 1
+	Query: "genus:Madagascarophis tissue" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Alabama&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:crocodilus genus:Caiman" ; Times: 1
+	Query: "specificepithet:sphenocephala genus:rana stateprovince:&#34;missouri&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Val Verde&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "specificepithet:Triangulum genus:Lampropeltis stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "specificepithet:japonicus genus:Bufo institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "Adolfus africanus mappable:1" ; Times: 1
+	Query: "genus:Ramphotyphlops stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "specificepithet:nitidus genus:Eleutherodactylus stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "LSUMZ 45797" ; Times: 2
+	Query: "crocodylus moreletii" ; Times: 4
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Aiken&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:14663" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "genus:Leioheterodon tissue" ; Times: 2
+	Query: "catalognumber:83160 institutioncode:LSUMZ" ; Times: 1
+	Query: "rhinobothryum bovallii" ; Times: 1
+	Query: "35131" ; Times: 1
+	Query: "specificepithet:stelzneri genus:Melanophryniscus institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+	Query: "Sphenomorphus darlingtoni" ; Times: 1
+	Query: "catalognumber:545 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:rhinoceros genus:Bitis" ; Times: 1
+	Query: "LSUMZ 87348" ; Times: 1
+	Query: "Ophiodes striatus" ; Times: 1
+	Query: "lsumz 88131" ; Times: 2
+	Query: "Dendrelaphis punctulatus mappable:1" ; Times: 1
+	Query: "catalognumber:31709" ; Times: 1
+	Query: "family:Colubridae country:&#34;India&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "59237" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:Nerodia stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:sagrei genus:anolis stateprovince:&#34;Florida&#34; institutioncode:LSUMZ" ; Times: 2
+	Query: "Pseudacris illinoensis" ; Times: 1
+	Query: "catalognumber:76194 institutioncode:LSUMZ" ; Times: 1
+	Query: "nerodia new mexico" ; Times: 1
+	Query: "93566" ; Times: 1
+	Query: "genus:siren hastissue:1" ; Times: 1
+	Query: "catalognumber:32540" ; Times: 1
+	Query: "hemiphractus bubalus" ; Times: 4
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Charleston&#34; stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:26947 institutioncode:LSUMZ" ; Times: 2
+	Query: "Mimophis" ; Times: 1
+	Query: "33026" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:8552 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:spumarius genus:Atelopus institutioncode:AMNH OR CAS OR FMNH OR CM OR KU OR USNM OR MVZ OR MCZ OR UMMZ OR UAZ OR BPBM OR LACM OR LSUMZ OR MSB OR NCSM OR OMNH OR TCWC OR TNHC OR UF OR UTA OR UWBM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 107 (out of 1263 download events in this period)
+Total number of records downloaded: 6511
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 21
+	Country: South Africa ; Times: 2
+	Country: India ; Times: 1
+	Country: United States ; Times: 67
+	Country: Malaysia ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-22 ; Times: 2
+	Date: 2019-04-18 ; Times: 4
+	Date: 2019-04-13 ; Times: 1
+	Date: 2019-04-12 ; Times: 6
+	Date: 2019-04-11 ; Times: 2
+	Date: 2019-04-10 ; Times: 4
+	Date: 2019-04-17 ; Times: 1
+	Date: 2019-04-16 ; Times: 9
+	Date: 2019-04-15 ; Times: 2
+	Date: 2019-04-14 ; Times: 3
+	Date: 2019-04-20 ; Times: 8
+	Date: 2019-04-21 ; Times: 4
+	Date: 2019-04-02 ; Times: 5
+	Date: 2019-04-03 ; Times: 1
+	Date: 2019-04-04 ; Times: 2
+	Date: 2019-04-23 ; Times: 7
+	Date: 2019-04-06 ; Times: 2
+	Date: 2019-04-07 ; Times: 1
+	Date: 2019-04-26 ; Times: 2
+	Date: 2019-04-27 ; Times: 4
+	Date: 2019-04-24 ; Times: 4
+	Date: 2019-04-25 ; Times: 10
+	Date: 2019-04-29 ; Times: 7
+	Date: 2019-04-08 ; Times: 4
+	Date: 2019-04-09 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "Eupsophus" ; Times: 1
+	Query: "Ambystoma rosaceum" ; Times: 1
+	Query: "Rhinodermatidae" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Ambystoma mabeei" ; Times: 1
+	Query: "class:reptilia county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34; year &gt;= 1990" ; Times: 1
+	Query: "country:&#34;Uruguay&#34;" ; Times: 1
+	Query: "specificepithet:costatus genus:Cnemidophorus" ; Times: 1
+	Query: "Anolis lemurinus" ; Times: 1
+	Query: "Delhi" ; Times: 1
+	Query: "specificepithet:atrox genus:crotalus" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "Desmognathus auriculatus" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "Crotalus catalinensis" ; Times: 1
+	Query: "Eleutherodactylus antillensis" ; Times: 1
+	Query: "specificepithet:deppii genus:Cnemidophorus" ; Times: 1
+	Query: "family:Anguidae institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 2
+	Query: "genus:Ambystoma specificepithet:jeffersonianum" ; Times: 1
+	Query: "Xantusia henshawi" ; Times: 1
+	Query: "genus:Pachydactylus" ; Times: 1
+	Query: "Eleutherodactylus wightmanae" ; Times: 1
+	Query: "candoia carinata" ; Times: 1
+	Query: "class:amphibia county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34; year &gt;= 1890 year &lt;= 1989" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus" ; Times: 1
+	Query: "Eleutherodactylus richmondi" ; Times: 1
+	Query: "Eleutherodactylus unicolor" ; Times: 1
+	Query: "Eleutherodactylus coqui" ; Times: 1
+	Query: "Xantusia arizonae" ; Times: 1
+	Query: "dendroaspis polylepis" ; Times: 2
+	Query: "specificepithet:scutulatus genus:Crotalus" ; Times: 1
+	Query: "cnemaspis" ; Times: 1
+	Query: "Crotalus oreganus" ; Times: 1
+	Query: "Anolis tropidonotus" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus year&gt;1990" ; Times: 1
+	Query: "class:Reptilia county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Ambystoma californiense" ; Times: 1
+	Query: "Cycloramphus" ; Times: 1
+	Query: "specificepithet:sagrei genus:anolis stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Plethodon wehrlei" ; Times: 1
+	Query: "genus:Phyllodactylus" ; Times: 1
+	Query: "Eleutherodactylus portoricensis" ; Times: 1
+	Query: "Rhinoderma" ; Times: 1
+	Query: "class:Amphibia county:&#34;Jim Hogg&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:laredoensis genus:Cnemidophorus" ; Times: 1
+	Query: "Macropisthodon rudis" ; Times: 1
+	Query: "vipera aspis" ; Times: 3
+	Query: "Coleonyx variegatus stateprovince:&#34;California&#34; year &gt;= 1998" ; Times: 1
+	Query: "Xantusia Arizona" ; Times: 1
+	Query: "specificepithet:maculatum genus:ambystoma" ; Times: 1
+	Query: "genus:rhinoclemmys order:testudines" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:laterale" ; Times: 1
+	Query: "specificepithet:auriculatus genus:Desmognathus" ; Times: 1
+	Query: "specificepithet:sicula genus:podarcis" ; Times: 2
+	Query: "kinosternon hirtipes" ; Times: 1
+	Query: "specificepithet:vagrans genus:aneides stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Leptodactylus latinasus" ; Times: 1
+	Query: "Crotalus culminatus" ; Times: 1
+	Query: "xantusia arizonae" ; Times: 2
+	Query: "specificepithet:braminus stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "class:Amphibia county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Lycophidion hastissue:1" ; Times: 1
+	Query: "LSUMZ catesbeiana" ; Times: 1
+	Query: "desmognathus conanti" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:opacum" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+	Query: "specificepithet:spectrum genus:Rhampholeon" ; Times: 1
+	Query: "spea hammondii" ; Times: 2
+	Query: "desmognathus auriculatus" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:texanum" ; Times: 1
+	Query: "lachesis" ; Times: 2
+	Query: "Ambystoma talpoideum" ; Times: 1
+	Query: "Ambystoma dumerilii" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:annulatum" ; Times: 1
+	Query: "Crotalus aquilus" ; Times: 1
+	Query: "Lophognathus temporalis" ; Times: 1
+	Query: "Anolis rodriguezii" ; Times: 1
+	Query: "genus:Ramphotyphlops stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "crocodylus moreletii" ; Times: 2
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "Ambystoma velasci" ; Times: 1
+	Query: "rhinobothryum bovallii" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 2
+	Query: "Mabuya unimarginata" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "class:reptilia country:&#34;iraq&#34;" ; Times: 3
+	Query: "Odontophrynus" ; Times: 1
+
+
+End of report.
