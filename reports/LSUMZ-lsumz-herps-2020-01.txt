@@ -1,0 +1,1277 @@
+Report for Institution Code LSUMZ, Resource lsumz-herps
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1437
+Number of records retrieved in searches: 37245
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: United States ; Times: 1342
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Honduras ; Times: 1
+	Country: Portugal ; Times: 6
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 16
+	Country: Panama ; Times: 2
+	Country: Mexico ; Times: 10
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 20
+	Country: Rwanda ; Times: 2
+	Country: China ; Times: 2
+	Country: Peru ; Times: 10
+	Country: Denmark ; Times: 2
+	Country: South Korea ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Dominica ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 24
+	Date: 2020-01-03 ; Times: 7
+	Date: 2020-01-02 ; Times: 4
+	Date: 2020-01-01 ; Times: 3
+	Date: 2020-01-07 ; Times: 8
+	Date: 2020-01-06 ; Times: 14
+	Date: 2020-01-05 ; Times: 3
+	Date: 2020-01-04 ; Times: 3
+	Date: 2020-01-21 ; Times: 8
+	Date: 2020-01-20 ; Times: 9
+	Date: 2020-01-09 ; Times: 13
+	Date: 2020-01-08 ; Times: 15
+	Date: 2020-01-25 ; Times: 16
+	Date: 2020-01-24 ; Times: 451
+	Date: 2020-01-27 ; Times: 51
+	Date: 2020-01-26 ; Times: 38
+	Date: 2020-01-29 ; Times: 63
+	Date: 2020-01-28 ; Times: 69
+	Date: 2020-01-18 ; Times: 132
+	Date: 2020-01-19 ; Times: 17
+	Date: 2020-01-23 ; Times: 329
+	Date: 2020-01-14 ; Times: 12
+	Date: 2020-01-15 ; Times: 4
+	Date: 2020-01-30 ; Times: 8
+	Date: 2020-01-17 ; Times: 23
+	Date: 2020-01-10 ; Times: 14
+	Date: 2020-01-11 ; Times: 13
+	Date: 2020-01-12 ; Times: 12
+	Date: 2020-01-13 ; Times: 16
+	Date: 2020-01-31 ; Times: 48
+	Date: 2020-01-16 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:griswoldi genus:Gastrotheca institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:wrightorum genus:Hyla" ; Times: 1
+	Query: "specificepithet:coniferus genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "Meroles suborbitalis" ; Times: 1
+	Query: "county:&#34;wayne&#34; stateprovince:&#34;west virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:bibroni genus:Pleurodema institutioncode:LSUMZ" ; Times: 1
+	Query: "Sphaerodactylus cinereus" ; Times: 2
+	Query: "specificepithet:euphorbiacea genus:Hyla institutioncode:LSUMZ" ; Times: 1
+	Query: "locality:Los Bancos " ; Times: 1
+	Query: "73465" ; Times: 1
+	Query: "specificepithet:marsupiata genus:Gastrotheca" ; Times: 1
+	Query: "specificepithet:schneideri genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:bubalus genus:Hemiphractus" ; Times: 1
+	Query: "Ophisaurus incomptus" ; Times: 1
+	Query: "specificepithet:ibericus genus:Pelodytes institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:taylori genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:brimleyi genus:Pseudacris" ; Times: 1
+	Query: "specificepithet:munozorum genus:Hyalinobatrachium" ; Times: 1
+	Query: "Draco boschmai" ; Times: 1
+	Query: "specificepithet:ocoae genus:Sphaerodactylus institutioncode:LSUMZ" ; Times: 4
+	Query: "specificepithet:yavapaiensis genus:Rana" ; Times: 1
+	Query: "specificepithet:guentheri genus:Ceratobatrachus" ; Times: 1
+	Query: "specificepithet:aequiplicata genus:Ptychadena" ; Times: 1
+	Query: "specificepithet:syriacus genus:Pelobates institutioncode:LSUMZ" ; Times: 1
+	Query: "class:Reptilia county:&#34;Clarke&#34; stateprovince:&#34;Alabama&#34;" ; Times: 2
+	Query: "specificepithet:virgatipes genus:Rana" ; Times: 1
+	Query: "specificepithet:palmipes genus:Austrochaperina" ; Times: 1
+	Query: "39717" ; Times: 1
+	Query: "specificepithet:guttata genus:Phasmahyla" ; Times: 1
+	Query: "specificepithet:marinus genus:Bufo" ; Times: 1
+	Query: "specificepithet:rosaurae genus:Sphaerodactylus institutioncode:LSUMZ" ; Times: 4
+	Query: "catalognumber:24995" ; Times: 1
+	Query: "specificepithet:oxyrhynchus genus:Ptychadena institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:fleischmanni genus:Hyalinobatrachium" ; Times: 1
+	Query: "genus:Claudius stateprovince:&#34;veracruz&#34;" ; Times: 1
+	Query: "specificepithet:impura genus:Litoria" ; Times: 1
+	Query: "catalognumber:28650 institutioncode:LSUMZ" ; Times: 1
+	Query: "98368" ; Times: 1
+	Query: "specificepithet:moreletii genus:Agalychnis" ; Times: 1
+	Query: "genus:Atractaspis year &gt;= 1980 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "specificepithet:holbrookii genus:Scaphiopus institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:21938 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:rugosa genus:Rana" ; Times: 1
+	Query: "specificepithet:coqui genus:Eleutherodactylus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:euphorbiacea genus:Hyla" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Rhinophrynus" ; Times: 1
+	Query: "specificepithet:hemiophrys genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Mesoscincus schwartzei" ; Times: 1
+	Query: "specificepithet:lineatus genus:Lithodytes" ; Times: 1
+	Query: "specificepithet:karissimbensis genus:Leptopelis institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:crucifer genus:Bufo" ; Times: 1
+	Query: "specificepithet:mascareniensis genus:Ptychadena" ; Times: 1
+	Query: "specificepithet:triseriata genus:Pseudacris institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:brachyops genus:Pleurodema" ; Times: 1
+	Query: "specificepithet:brachyphona genus:Pseudacris" ; Times: 1
+	Query: "specificepithet:andersonii genus:Hyla" ; Times: 1
+	Query: "specificepithet:peruana genus:Gastrotheca" ; Times: 1
+	Query: "specificepithet:hasseltii genus:Leptobrachium institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:laticeps genus:Limnonectes" ; Times: 1
+	Query: "specificepithet:multiplicata genus:Spea county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:20000 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:lineatus genus:Lithodytes institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:iberica genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:varius genus:Atelopus" ; Times: 1
+	Query: "specificepithet:baudinii genus:Smilisca institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Siphonops specificepithet:annulatus" ; Times: 1
+	Query: "specificepithet:schneideri genus:Bufo" ; Times: 1
+	Query: "specificepithet:ephippium genus:Brachycephalus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:maculatus genus:Polypedates institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:macrolepis genus:Sphaerodactylus institutioncode:LSUMZ" ; Times: 5
+	Query: "specificepithet:scutatus genus:Hemiphractus" ; Times: 1
+	Query: "Ramphotyphlops braminus country:&#34;philippines&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:Mantophryne" ; Times: 1
+	Query: "specificepithet:ridibunda genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "class:Amphibia county:&#34;Clarke&#34; stateprovince:&#34;Alabama&#34;" ; Times: 2
+	Query: "specificepithet:monticola genus:Gastrotheca institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:brachyphona genus:Pseudacris institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:12682" ; Times: 1
+	Query: "specificepithet:eximia genus:Hyla institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Rhadinaea hastissue:1" ; Times: 2
+	Query: "specificepithet:palliata genus:Phyllomedusa" ; Times: 1
+	Query: "specificepithet:griseigularis genus:Leptodactylus" ; Times: 1
+	Query: "genus:Tantilla semicincta" ; Times: 1
+	Query: "specificepithet:microdiscus genus:Limnonectes" ; Times: 1
+	Query: "Lygodactylus gutturalis" ; Times: 1
+	Query: "specificepithet:ornata genus:Pseudacris institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:pardalis genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "recordedby:Willig" ; Times: 1
+	Query: "specificepithet:eneidae genus:Eleutherodactylus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:cascadae genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:buckleyi genus:Osteocephalus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:cisternasii genus:Alytes" ; Times: 1
+	Query: "specificepithet:bombina genus:Bombina" ; Times: 1
+	Query: "specificepithet:ephippiata genus:Tarentola institutioncode:LSUMZ" ; Times: 4
+	Query: "specificepithet:cophotis genus:Bufo" ; Times: 1
+	Query: "specificepithet:hammondii genus:Spea institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:dentata genus:Liophryne" ; Times: 1
+	Query: "specificepithet:canorus genus:Bufo" ; Times: 1
+	Query: "specificepithet:arborea genus:Hyla" ; Times: 1
+	Query: "specificepithet:cinerea genus:Hyla institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:concolor genus:Hyperolius" ; Times: 1
+	Query: "specificepithet:nigrita genus:Pseudacris institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:19400 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:chiriquiensis genus:Atelopus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:multiplicata genus:Spea county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "specificepithet:cornuta genus:Ceratophrys institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:robinsoni genus:Bufo" ; Times: 1
+	Query: "specificepithet:japonica genus:Hyla" ; Times: 1
+	Query: "specificepithet:signifera genus:Crinia institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:7965 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:nicholsi genus:Sphaerodactylus institutioncode:LSUMZ" ; Times: 4
+	Query: "specificepithet:baleata genus:Kaloula institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:illinoensis genus:Pseudacris institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:variegata genus:Bombina institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:rhodonotus genus:Leptodactylus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:elaeochroa genus:Scinax institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:modestus genus:Limnonectes institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:corrugatus genus:Platymantis" ; Times: 1
+	Query: "specificepithet:bibroni genus:Ptychadena" ; Times: 1
+	Query: "Ramphotyphlops braminus country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "specificepithet:namaquense genus:Cacosternum" ; Times: 1
+	Query: "specificepithet:guppyi genus:Discodeles" ; Times: 1
+	Query: "specificepithet:avivoca genus:Hyla" ; Times: 1
+	Query: "specificepithet:brevirostris genus:Leptopelis institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:palustris genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "LSUMZ 36162" ; Times: 1
+	Query: "picta Chrysemys" ; Times: 3
+	Query: "specificepithet:muscosa genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:marmoreus genus:Bufo" ; Times: 1
+	Query: "specificepithet:microdiscus genus:Limnonectes institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:horrida genus:Homonota institutioncode:LSUMZ" ; Times: 6
+	Query: "48995" ; Times: 1
+	Query: "Tantilla shawi" ; Times: 1
+	Query: "O.72269" ; Times: 1
+	Query: "Varanus albigularis" ; Times: 1
+	Query: "specificepithet:ephippium genus:Brachycephalus" ; Times: 1
+	Query: "specificepithet:obstetricans genus:Alytes" ; Times: 1
+	Query: "macrovipera lebetina" ; Times: 1
+	Query: "specificepithet:portoricensis genus:Eleutherodactylus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:chrysoscelis genus:Hyla institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:perezi genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:japonica genus:Hyla institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:senegalensis genus:Kassina institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:perplexus genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "Coniophanes Guerrero" ; Times: 1
+	Query: "specificepithet:muelleri genus:Xenopus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:validus genus:Leptodactylus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:walkeri genus:Hyla" ; Times: 1
+	Query: "specificepithet:ornatus genus:Cophixalus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:matudai genus:Plectrohyla institutioncode:LSUMZ" ; Times: 1
+	Query: "Ctenosaura oedirhina" ; Times: 1
+	Query: "cultripes Pelobates" ; Times: 1
+	Query: "specificepithet:cyanosticta genus:Smilisca institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:coniferus genus:Bufo" ; Times: 1
+	Query: "specificepithet:guineti genus:Dyscophus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:tagoi genus:Rana" ; Times: 1
+	Query: "calamita Bufo" ; Times: 1
+	Query: "specificepithet:balbus genus:Cophixalus institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Tantilla semicincta collectioncode:HERPS institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:humeralis genus:Gonatodes institutioncode:LSUMZ" ; Times: 6
+	Query: "specificepithet:johnwrighti genus:Phyllodactylus institutioncode:LSUMZ" ; Times: 6
+	Query: "Sphaerodactylus dunni" ; Times: 1
+	Query: "specificepithet:forreri genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "Sphenomorphus cranei" ; Times: 1
+	Query: "specificepithet:magnaocularis genus:Rana" ; Times: 1
+	Query: "specificepithet:forreri genus:Rana" ; Times: 1
+	Query: "Sphaerodactylus zygaena hassex:1" ; Times: 3
+	Query: "specificepithet:areolata genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "Apalone spinifera Texas" ; Times: 1
+	Query: "specificepithet:impura genus:Litoria institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:argivus genus:Sphaerodactylus institutioncode:LSUMZ" ; Times: 5
+	Query: "specificepithet:alvarius genus:Bufo" ; Times: 1
+	Query: "specificepithet:meridionalis genus:Hyla institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:nitidus genus:Eleutherodactylus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:hypomykter genus:Ptychohyla institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:melanostictus genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "LSUMZ 25901" ; Times: 2
+	Query: "&#34;senticolis triaspis&#34; arizona" ; Times: 1
+	Query: "specificepithet:basiliscus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:gracilis genus:Physalaemus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:hemiophrys genus:Bufo" ; Times: 1
+	Query: "specificepithet:vaillanti genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:biporcatus genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:speciosus genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:cryptotympanum genus:Cophixalus institutioncode:LSUMZ" ; Times: 1
+	Query: "Sceloporus cryptus" ; Times: 1
+	Query: "54378" ; Times: 1
+	Query: "specificepithet:asper genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:montanus genus:Ascaphus institutioncode:LSUMZ" ; Times: 8
+	Query: "specificepithet:oxyrhynchus genus:Ptychadena" ; Times: 1
+	Query: "specificepithet:erythraea genus:Rana" ; Times: 1
+	Query: "specificepithet:japonica genus:Rana" ; Times: 1
+	Query: "specificepithet:crucifer genus:Pseudacris institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:aucoinae genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:poeppigii genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:nitidus genus:Eleutherodactylus" ; Times: 1
+	Query: "specificepithet:muelleri genus:Ansonia institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:retiformis genus:Bufo" ; Times: 1
+	Query: "specificepithet:brevirostris genus:Leptopelis" ; Times: 1
+	Query: "parker kenya" ; Times: 1
+	Query: "fieldnumber:3758" ; Times: 1
+	Query: "specificepithet:areolata genus:Rana" ; Times: 1
+	Query: "hydromantes shastae" ; Times: 3
+	Query: "pseudotriton montanus georgia" ; Times: 1
+	Query: "specificepithet:albogularis genus:Gonatodes institutioncode:LSUMZ" ; Times: 7
+	Query: "Mesaspis viridiflava" ; Times: 1
+	Query: "specificepithet:limnocharis genus:Fejervarya institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:wallacei county:&#34;Jackson&#34;" ; Times: 8
+	Query: "specificepithet:limensis genus:Bufo" ; Times: 1
+	Query: "specificepithet:illinoensis genus:Pseudacris" ; Times: 1
+	Query: "specificepithet:townsendi genus:Sphaerodactylus institutioncode:LSUMZ" ; Times: 4
+	Query: "specificepithet:pleurostigma genus:Kalophrynus institutioncode:LSUMZ" ; Times: 1
+	Query: "Sphaerodactylus notatus" ; Times: 1
+	Query: "specificepithet:clenchi genus:Sphaerodactylus institutioncode:LSUMZ" ; Times: 4
+	Query: "Coleonyx mitratus" ; Times: 1
+	Query: "Thamnophis scaliger" ; Times: 1
+	Query: "catalognumber:67214 institutioncode:LSUMZ" ; Times: 2
+	Query: "39597" ; Times: 2
+	Query: "specificepithet:neovolcanica genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:corrugatus genus:Platymantis institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Hydromantes county:&#34;Shasta&#34;" ; Times: 1
+	Query: "specificepithet:boettgeri genus:Hymenochirus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:exsul genus:Thamnophis country:&#34;Mexico&#34;" ; Times: 2
+	Query: "specificepithet:californicus genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:viridis genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:nasuta genus:Megophrys" ; Times: 1
+	Query: "Gerrhonotus ophiurus" ; Times: 1
+	Query: "specificepithet:borellii genus:Pleurodema institutioncode:LSUMZ" ; Times: 1
+	Query: "salamandra Salamandra" ; Times: 3
+	Query: "specificepithet:clamitans genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:brunoi genus:Aparasphenodon institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:bicolor genus:Phyllomedusa" ; Times: 1
+	Query: "specificepithet:cornuta genus:Ceratophrys" ; Times: 1
+	Query: "specificepithet:bicolor genus:Litoria institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:slateri genus:Callulops" ; Times: 1
+	Query: "specificepithet:verrucosus genus:Phlyctimantis" ; Times: 1
+	Query: "specificepithet:calamita genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:notatus genus:Sphaerodactylus institutioncode:LSUMZ" ; Times: 4
+	Query: "Lampropeltis pyromelana" ; Times: 138
+	Query: "waltl Pleurodeles" ; Times: 1
+	Query: "specificepithet:antillensis genus:Eleutherodactylus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:japonica genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:4750 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:regularis genus:Bufo" ; Times: 1
+	Query: "specificepithet:laevis genus:Occidozyga institutioncode:LSUMZ" ; Times: 1
+	Query: "amphiuma texas" ; Times: 3
+	Query: "specificepithet:arboreus genus:Rhacophorus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:nasuta genus:Litoria institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:syriacus genus:Pelobates" ; Times: 1
+	Query: "specificepithet:boliviana genus:Phyllomedusa" ; Times: 1
+	Query: "specificepithet:prora genus:Litoria institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:minutus genus:Dendrophryniscus" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:klauberi genus:Sphaerodactylus institutioncode:LSUMZ" ; Times: 4
+	Query: "specificepithet:arfakiana genus:Litoria" ; Times: 1
+	Query: "specificepithet:rostellifer genus:Choerophryne" ; Times: 1
+	Query: "specificepithet:perezi genus:Rana" ; Times: 1
+	Query: "specificepithet:dentata genus:Liophryne institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:hylaedactyla genus:Adenomera institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:lentus genus:Eleutherodactylus" ; Times: 1
+	Query: "sila Gambelia" ; Times: 1
+	Query: "specificepithet:rugosa genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "Chironius multiventris" ; Times: 2
+	Query: "catalognumber:18092 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:99000 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:coccifer genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:mabouia genus:hemidactylus institutioncode:LSUMZ hastissue:1" ; Times: 2
+	Query: "specificepithet:aequiplicata genus:Ptychadena institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:boliviana genus:Hamptophryne" ; Times: 1
+	Query: "specificepithet:arfaki genus:Rana" ; Times: 1
+	Query: "specificepithet:mazatlanensis genus:Bufo" ; Times: 1
+	Query: "specificepithet:stelzneri genus:Melanophryniscus" ; Times: 1
+	Query: "catalognumber:20740 institutioncode:LSUMZ" ; Times: 1
+	Query: "Drymobius rhombifer" ; Times: 1
+	Query: "specificepithet:culminatus genus:Crotalus" ; Times: 1
+	Query: "rana sphenocephala vntype:specimen county:&#34;san patricio&#34; stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "phymaturus" ; Times: 1
+	Query: "specificepithet:martinicensis genus:Eleutherodactylus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:dacnicolor genus:Pachymedusa institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:daemeli genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:buergeri genus:Buergeria institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:auratus genus:Dendrobates institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:fuliginosus genus:Cycloramphus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:melanopyga genus:Lechriodus" ; Times: 1
+	Query: "ficimia texas" ; Times: 2
+	Query: "specificepithet:roseus genus:Eupsophus institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:12453" ; Times: 1
+	Query: "specificepithet:neovolcanica genus:Rana" ; Times: 1
+	Query: "specificepithet:temporaria genus:Rana" ; Times: 1
+	Query: "specificepithet:celebensis genus:Bufo" ; Times: 1
+	Query: "specificepithet:stelzneri genus:Melanophryniscus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:limensis genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:terrestris genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:elaeochroa genus:Scinax" ; Times: 1
+	Query: "specificepithet:virgatipes genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:buergeri genus:Buergeria" ; Times: 1
+	Query: "Ophisaurus mimicus" ; Times: 1
+	Query: "reptilia guizhou" ; Times: 2
+	Query: "specificepithet:schlegelii genus:Rhacophorus" ; Times: 1
+	Query: "specificepithet:magnaocularis genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:olivacea genus:Gastrophryne institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Bufo" ; Times: 1
+	Query: "specificepithet:tarahumarae genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:4758 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:falcipes genus:Pseudopaludicola institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:staufferi genus:Scinax institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:tzabcan genus:Crotalus" ; Times: 1
+	Query: "specificepithet:leprieurii genus:Osteocephalus" ; Times: 1
+	Query: "LSUMZ 36163" ; Times: 1
+	Query: "family:Myobatrachidae hastissue:1" ; Times: 2
+	Query: "specificepithet:nebulifer genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "pseudotriton montanus Tennessee" ; Times: 2
+	Query: "specificepithet:reissii genus:Phyllodactylus institutioncode:LSUMZ" ; Times: 6
+	Query: "specificepithet:cophotis genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:peruana genus:Gastrotheca institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:macrodon genus:Limnonectes" ; Times: 1
+	Query: "specificepithet:cooki genus:anolis sex:male" ; Times: 1
+	Query: "Scincella gemmingeri" ; Times: 1
+	Query: "temporaria Rana" ; Times: 4
+	Query: "Dendrophidion percarinatum" ; Times: 1
+	Query: "specificepithet:lacteus genus:Sphaenorhynchus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:mystaceus genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:cycladen genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:guttata genus:Austrochaperina" ; Times: 1
+	Query: "specificepithet:miliaris genus:Thoropa institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:malabarica genus:Rana" ; Times: 1
+	Query: "specificepithet:clarkii genus:Pseudacris institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:juxtasper genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:lateralis genus:Mantophryne institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:hochstetteri genus:Leiopelma" ; Times: 2
+	Query: "LSUMZ 21888" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:bassleri genus:Chiasmocleis" ; Times: 1
+	Query: "specificepithet:karissimbensis genus:Leptopelis" ; Times: 1
+	Query: "genus:Arthroleptis specificepithet:adolfifriederici" ; Times: 2
+	Query: "specificepithet:cavifrons genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:melanopyga genus:Lechriodus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:crepitans genus:Acris institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:sordida genus:Smilisca" ; Times: 1
+	Query: "specificepithet:johnstonei genus:Eleutherodactylus" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:feriarum genus:Pseudacris institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:validus genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:occultus genus:anolis" ; Times: 1
+	Query: "genus:Terrapene county:&#34;travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:squirella genus:Hyla institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:laevis genus:Xenopus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:borbonica genus:Leptophryne institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:infrafrenata genus:Litoria institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:castaneus genus:Hyperolius" ; Times: 1
+	Query: "specificepithet:retiformis genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:97853" ; Times: 1
+	Query: "specificepithet:totonacus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Odontophrynus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:cornuta genus:Sphenophryne" ; Times: 1
+	Query: "specificepithet:alvarius genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "O.58135" ; Times: 1
+	Query: "specificepithet:callidryas genus:Agalychnis" ; Times: 1
+	Query: "specificepithet:slateri genus:Callulops institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:annae genus:Agalychnis" ; Times: 1
+	Query: "specificepithet:fleischmanni genus:Hyalinobatrachium institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:laticeps genus:Limnonectes institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Rhinophrynus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:spiculatus genus:Bufo" ; Times: 1
+	Query: "Scincella caudaequinae" ; Times: 1
+	Query: "specificepithet:femoralis genus:Hyla institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:porteri genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:annae genus:Agalychnis institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:millepunctatus genus:Sphaerodactylus institutioncode:LSUMZ" ; Times: 4
+	Query: "specificepithet:canaliferus genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:mazatlanensis genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:heckscheri genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "Sternotherus minor stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "specificepithet:arboreus genus:Rhacophorus" ; Times: 1
+	Query: "specificepithet:nigropunctata genus:Litoria" ; Times: 1
+	Query: "ophisaurus monroe" ; Times: 1
+	Query: "specificepithet:latastei genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:darwinii genus:Rhinoderma institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:ornata genus:Ceratophrys institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:phaeota genus:Smilisca institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:elegantulus genus:Sphaerodactylus institutioncode:LSUMZ" ; Times: 4
+	Query: "specificepithet:albilabris genus:Leptodactylus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:wrightorum genus:Hyla institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:chalconota genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:usta genus:Gastrophryne" ; Times: 1
+	Query: "Barisia imbricata" ; Times: 2
+	Query: "specificepithet:pictiventris genus:Gastrophryne institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:camerunensis genus:Bufo" ; Times: 1
+	Query: "specificepithet:arenicolor genus:Hyla county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "Cycloderma+frenatum" ; Times: 1
+	Query: "specificepithet:biligonigerus genus:Physalaemus" ; Times: 1
+	Query: "vntype:specimen specificepithet:rathbuni genus:eurycea stateprovince:&#34;texas&#34; AND (NOT ethanol NOT alcoholic) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:dunni genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:bicolor genus:Phyllomedusa institutioncode:LSUMZ" ; Times: 1
+	Query: "35114" ; Times: 2
+	Query: "genus:Masticophis county:&#34;Dade&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:cultripes genus:Pelobates" ; Times: 1
+	Query: "specificepithet:bombifrons genus:Spea institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:americanus genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:japonicus genus:Bufo" ; Times: 1
+	Query: "Reptilia guizhou" ; Times: 1
+	Query: "specificepithet:systoma genus:Uperodon" ; Times: 1
+	Query: "62878" ; Times: 1
+	Query: "specificepithet:papuensis genus:Platymantis" ; Times: 1
+	Query: "specificepithet:gratiosa genus:Hyla institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:weberi genus:Platymantis" ; Times: 1
+	Query: "catalognumber:35414 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:tropicalis genus:Silurana" ; Times: 1
+	Query: "Thamnophis sirtalis county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:bicolor genus:Elachistocleis institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:montezumae genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:bufonius genus:Leptodactylus" ; Times: 1
+	Query: "54986" ; Times: 2
+	Query: "specificepithet:bufonius genus:Leptodactylus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:cycladen genus:Bufo" ; Times: 1
+	Query: "specificepithet:regularis genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:boulengeri genus:Scinax" ; Times: 1
+	Query: "specificepithet:systoma genus:Uperodon institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:grunniens genus:Limnonectes institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:tellinii genus:Ptychadena institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:atricucullaris genus:Gonatodes institutioncode:LSUMZ" ; Times: 7
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "specificepithet:roosevelti genus:Sphaerodactylus institutioncode:LSUMZ" ; Times: 4
+	Query: "specificepithet:derongo genus:Austrochaperina" ; Times: 1
+	Query: "specificepithet:calcaratus genus:Leptopelis" ; Times: 1
+	Query: "catalognumber:18093 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:garbei genus:Scinax institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:dalmatina genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "Ctenosaura melanosterna" ; Times: 1
+	Query: "specificepithet:hylaedactyla genus:Adenomera" ; Times: 1
+	Query: "class:Reptilia county:&#34;Monroe&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "specificepithet:pelewensis genus:Platymantis institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:sylvatica genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:caudiscutatus genus:Gonatodes institutioncode:LSUMZ" ; Times: 6
+	Query: "specificepithet:hasemani genus:Gonatodes institutioncode:LSUMZ" ; Times: 6
+	Query: "specificepithet:excubitor genus:Gastrotheca" ; Times: 1
+	Query: "specificepithet:marinus country:&#34;Papua New Guinea&#34;" ; Times: 1
+	Query: "specificepithet:vigilis locality:blair county:&#34;San Diego&#34;" ; Times: 1
+	Query: "specificepithet:pictiventris genus:Gastrophryne" ; Times: 1
+	Query: "catalognumber:88141 institutioncode:LSUMZ" ; Times: 1
+	Query: "elaphe dione" ; Times: 2
+	Query: "specificepithet:pipilans genus:Eleutherodactylus" ; Times: 1
+	Query: "specificepithet:nebulifer genus:Bufo" ; Times: 1
+	Query: "specificepithet:granulosus genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:fodiens genus:Smilisca" ; Times: 1
+	Query: "specificepithet:bicolor genus:Elachistocleis" ; Times: 1
+	Query: "Plestiodon dugesii" ; Times: 1
+	Query: "specificepithet:versicolor genus:Hyla institutioncode:LSUMZ" ; Times: 1
+	Query: "Eleutherodactylus cameron county texas" ; Times: 1
+	Query: "specificepithet:microps genus:Phrynomantis" ; Times: 1
+	Query: "specificepithet:adolfifriederici genus:Arthroleptis" ; Times: 1
+	Query: "specificepithet:portoricensis genus:Eleutherodactylus" ; Times: 1
+	Query: "85834" ; Times: 1
+	Query: "specificepithet:ornata genus:Pseudacris" ; Times: 1
+	Query: "specificepithet:ricordii genus:Eleutherodactylus" ; Times: 1
+	Query: "reptilia Tennessee sumner" ; Times: 2
+	Query: "specificepithet:martinicensis genus:Eleutherodactylus" ; Times: 1
+	Query: "specificepithet:simus genus:Crotalus" ; Times: 2
+	Query: "specificepithet:beebei genus:Bufo" ; Times: 1
+	Query: "vntype:specimen specificepithet:rathbuni genus:eurycea AND (NOT alcohol NOT ethanol NOT alcoholic) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:hochstetteri genus:Leiopelma institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:maculata genus:Rana" ; Times: 1
+	Query: "specificepithet:luteiventris genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:unicolor genus:Eleutherodactylus" ; Times: 1
+	Query: "specificepithet:kubori genus:Nyctimystes institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:nigropunctata genus:Litoria institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:microscaphus genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:gerrhopygus genus:Phyllodactylus institutioncode:LSUMZ" ; Times: 6
+	Query: "specificepithet:guppyi genus:Discodeles institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:cinereus genus:Sphaerodactylus institutioncode:LSUMZ" ; Times: 4
+	Query: "specificepithet:guineti genus:Dyscophus" ; Times: 2
+	Query: "97174" ; Times: 1
+	Query: "specificepithet:boulengeri genus:Scinax institutioncode:LSUMZ" ; Times: 1
+	Query: "coniophanes piceivittis mexico" ; Times: 1
+	Query: "specificepithet:senegalensis genus:Kassina" ; Times: 1
+	Query: "specificepithet:guttata genus:Phasmahyla institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:spumarius genus:Atelopus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:juliani genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:kofordi genus:Phyllodactylus institutioncode:LSUMZ" ; Times: 6
+	Query: "specificepithet:modestus genus:Leptopelis" ; Times: 1
+	Query: "specificepithet:gryllus genus:Acris institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:margaritifer genus:Bufo" ; Times: 1
+	Query: "specificepithet:ewingii genus:Litoria institutioncode:LSUMZ" ; Times: 1
+	Query: "Malaclemys terrapin texas" ; Times: 1
+	Query: "specificepithet:vertebralis genus:Batrachylodes institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:esculenta genus:Rana" ; Times: 1
+	Query: "specificepithet:aurifasciatus genus:Philautus" ; Times: 1
+	Query: "pituophis lineaticollis mexico" ; Times: 1
+	Query: "specificepithet:muelleri genus:Ansonia" ; Times: 1
+	Query: "specificepithet:boreas genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:biligonigerus genus:Physalaemus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:majikthise genus:Litoria institutioncode:LSUMZ" ; Times: 1
+	Query: "Tantilla moesta" ; Times: 1
+	Query: "Sphaerodactylus rosaurae" ; Times: 1
+	Query: "specificepithet:lentus genus:Eleutherodactylus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:lessonae genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:ocularis genus:Pseudacris institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:auratus genus:Dendrobates" ; Times: 1
+	Query: "specificepithet:capito genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:infrafrenata genus:Litoria" ; Times: 1
+	Query: "specificepithet:thomsoni genus:Genyophryne" ; Times: 1
+	Query: "specificepithet:intermontana genus:Spea institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:nebulifer county:&#34;coryell&#34;" ; Times: 6
+	Query: "specificepithet:montezumae genus:Rana" ; Times: 1
+	Query: "specificepithet:exsul genus:Thamnophis" ; Times: 6
+	Query: "specificepithet:vaillanti genus:Rana" ; Times: 1
+	Query: "specificepithet:palmipes genus:Rana" ; Times: 1
+	Query: "specificepithet:pulchra genus:Kaloula" ; Times: 1
+	Query: "specificepithet:granuliferus genus:Dendrobates" ; Times: 1
+	Query: "specificepithet:brunoi genus:Aparasphenodon" ; Times: 1
+	Query: "catalognumber:21000 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:chaquensis genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:buckleyi genus:Osteocephalus" ; Times: 1
+	Query: "specificepithet:tagoi genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:lessonae genus:Rana" ; Times: 1
+	Query: "specificepithet:cryptotympanum genus:Cophixalus" ; Times: 1
+	Query: "Afroedura multiporis" ; Times: 1
+	Query: "Macroprotodon cucullatus" ; Times: 1
+	Query: "Sceloporus oberon" ; Times: 1
+	Query: "specificepithet:erythraea genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:couchii genus:Scaphiopus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:rhodomystax genus:Leptodactylus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:leytensis genus:Limnonectes institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:spectabilis genus:Rana" ; Times: 1
+	Query: "specificepithet:spectabilis genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:biporcatus genus:Bufo" ; Times: 1
+	Query: "specificepithet:arenarum genus:Bufo" ; Times: 1
+	Query: "specificepithet:tarahumarae genus:Rana" ; Times: 1
+	Query: "maewo" ; Times: 2
+	Query: "specificepithet:griseigularis genus:Leptodactylus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:valliceps genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "Sphaerodactylus cinereus hassex:1" ; Times: 3
+	Query: "specificepithet:wallacei county:&#34;Jackson&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:wightmanae genus:Eleutherodactylus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:perezi genus:Edalorhina institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:zonata genus:lampropeltis county:&#34;san mateo&#34;" ; Times: 1
+	Query: "Sphenomorphus acutus" ; Times: 1
+	Query: "specificepithet:wightmanae genus:Eleutherodactylus" ; Times: 1
+	Query: "specificepithet:boliviana genus:Hamptophryne institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:meridionalis genus:Hylodes" ; Times: 1
+	Query: "specificepithet:hypomykter genus:Ptychohyla" ; Times: 1
+	Query: "h nichols" ; Times: 3
+	Query: "specificepithet:garbei genus:Scinax" ; Times: 1
+	Query: "12356" ; Times: 1
+	Query: "specificepithet:tinctorius genus:Dendrobates" ; Times: 1
+	Query: "Sceloporus chaneyi" ; Times: 1
+	Query: "specificepithet:cyanosticta genus:Smilisca" ; Times: 1
+	Query: "specificepithet:brimleyi genus:Pseudacris stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:maculatus genus:Bufo" ; Times: 1
+	Query: "13990" ; Times: 1
+	Query: "specificepithet:pumilio genus:Dendrobates institutioncode:LSUMZ" ; Times: 1
+	Query: "blandingii Emydoidea" ; Times: 2
+	Query: "specificepithet:grunniens genus:Limnonectes" ; Times: 1
+	Query: "39813" ; Times: 1
+	Query: "catalognumber:25239" ; Times: 1
+	Query: "specificepithet:fulvius genus:Micrurus stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:falcipes genus:Pseudopaludicola" ; Times: 1
+	Query: "Laemanctus serratus" ; Times: 1
+	Query: "specificepithet:petasatus genus:Triprion" ; Times: 1
+	Query: "specificepithet:ovalis genus:Elachistocleis institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:canaliferus genus:Bufo" ; Times: 1
+	Query: "specificepithet:modestus genus:Limnonectes" ; Times: 1
+	Query: "specificepithet:stenodema genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:porteri genus:Bufo" ; Times: 1
+	Query: "specificepithet:chiriquiensis genus:Atelopus" ; Times: 1
+	Query: "specificepithet:bombifrons genus:Spea county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Terrapene ornata illinois" ; Times: 1
+	Query: "specificepithet:borellii genus:Pleurodema" ; Times: 1
+	Query: "specificepithet:xanthostigma genus:Lepidoblepharis institutioncode:LSUMZ" ; Times: 6
+	Query: "specificepithet:robustus genus:Trichobatrachus" ; Times: 1
+	Query: "specificepithet:pleurostigma genus:Kalophrynus" ; Times: 1
+	Query: "specificepithet:darwinii genus:Rhinoderma" ; Times: 1
+	Query: "specificepithet:tropicalis genus:Silurana institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:rhodonotus genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:boliviana genus:Phyllomedusa institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:variabilis genus:Arthroleptis institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:tasmaniensis genus:Limnodynastes institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:bufo genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:argus genus:Sphaerodactylus institutioncode:LSUMZ" ; Times: 5
+	Query: "specificepithet:fuliginosus genus:Cycloramphus" ; Times: 1
+	Query: "specificepithet:bolivianus genus:Leptodactylus" ; Times: 1
+	Query: "Alytes cisternasii" ; Times: 4
+	Query: "catalognumber:53106 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:verruciger genus:Osteocephalus" ; Times: 1
+	Query: "62875" ; Times: 1
+	Query: "specificepithet:signifer genus:Physalaemus" ; Times: 1
+	Query: "specificepithet:richmondi genus:Eleutherodactylus" ; Times: 1
+	Query: "specificepithet:barbouri genus:Pseudogonatodes institutioncode:LSUMZ" ; Times: 5
+	Query: "specificepithet:perplexus genus:Bufo" ; Times: 1
+	Query: "lsumz 49104" ; Times: 2
+	Query: "specificepithet:scutatus genus:Hemiphractus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:palmeus genus:Phyllodactylus institutioncode:LSUMZ" ; Times: 6
+	Query: "specificepithet:bibroni genus:Pleurodema" ; Times: 1
+	Query: "specificepithet:praesignis genus:Aristelliger institutioncode:LSUMZ" ; Times: 7
+	Query: "specificepithet:palmipes genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:eucnemis genus:Litoria" ; Times: 1
+	Query: "specificepithet:carens genus:Schismaderma" ; Times: 1
+	Query: "specificepithet:cavifrons genus:Bufo" ; Times: 1
+	Query: "specificepithet:varius genus:Atelopus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:meridionalis genus:Hyla" ; Times: 1
+	Query: "specificepithet:granuliferus genus:Dendrobates institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:macrocristatus genus:Bufo" ; Times: 1
+	Query: "specificepithet:muelleri genus:Xenopus" ; Times: 1
+	Query: "specificepithet:truei genus:Ascaphus institutioncode:LSUMZ" ; Times: 7
+	Query: "specificepithet:caerulea genus:Litoria institutioncode:LSUMZ" ; Times: 1
+	Query: "thamnophis sirtalis mexico" ; Times: 1
+	Query: "specificepithet:pipa genus:Pipa institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:arenicolor genus:Hyla county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:vibicaria genus:Rana" ; Times: 1
+	Query: "specificepithet:colymbiphyllum genus:Hyalinobatrachium" ; Times: 1
+	Query: "specificepithet:lacteus genus:Sphaenorhynchus" ; Times: 1
+	Query: "LSUMZ 14368" ; Times: 2
+	Query: "specificepithet:yavapaiensis genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:signifer genus:Physalaemus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:sordida genus:Smilisca institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:minutus genus:Dendrophryniscus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:quinquevittatus genus:Dendrobates" ; Times: 1
+	Query: "specificepithet:nasuta genus:Megophrys institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:natator genus:Staurois institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:mabouia genus:hemidactylus country:&#34;ghana&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:arenicolor genus:Hyla county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "sphenomorphus jobiensis manus" ; Times: 1
+	Query: "specificepithet:heyeri genus:Noblella institutioncode:LSUMZ" ; Times: 1
+	Query: "sistrurus monroe" ; Times: 1
+	Query: "genus:Tantilla collectioncode:HERPS institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:usta genus:Gastrophryne institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:temporaria genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:palliata genus:Phyllomedusa institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:pictus genus:Discoglossus institutioncode:LSUMZ" ; Times: 1
+	Query: "Geagras" ; Times: 1
+	Query: "specificepithet:calcaratus genus:Leptopelis institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:Osteopilus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:bibroni genus:Ptychadena institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:ventrimaculata genus:Chiasmocleis" ; Times: 1
+	Query: "specificepithet:leptodactyloides genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:ocellatus genus:Leptodactylus institutioncode:LSUMZ" ; Times: 1
+	Query: "lampropeltis miami-dade" ; Times: 2
+	Query: "specificepithet:microps genus:Phrynomantis institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:grammicus genus:sceloporus stateprovince:&#34;Coahuila&#34;" ; Times: 2
+	Query: "specificepithet:peruvianus genus:Pseudogonatodes institutioncode:LSUMZ" ; Times: 5
+	Query: "locality:gentilly stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "specificepithet:boettgeri genus:Hymenochirus" ; Times: 1
+	Query: "specificepithet:rathbuni genus:eurycea stateprovince:&#34;texas&#34; AND (NOT MVZ NOT UTA NOT TCWC NOT TNHC NOT AMNH NOT USNM) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Heloderma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "LSUMZ 8199" ; Times: 1
+	Query: "specificepithet:unicolor genus:Eleutherodactylus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:marsupiata genus:Gastrotheca institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:occipitalis genus:Hoplobatrachus institutioncode:LSUMZ" ; Times: 1
+	Query: "Meroles knoxii" ; Times: 2
+	Query: "specificepithet:johnstonei genus:Eleutherodactylus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:ornata genus:Ceratophrys" ; Times: 1
+	Query: "specificepithet:prora genus:Litoria" ; Times: 1
+	Query: "specificepithet:catesbeiana genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:vegrandis genus:Crotalus" ; Times: 1
+	Query: "specificepithet:angiana genus:Litoria institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:leptodactyloides genus:Leptodactylus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:ornatus genus:Cophixalus" ; Times: 1
+	Query: "specificepithet:spinulosus genus:Bufo" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Platymantis institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:blairi genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "Coluber constrictor cameron county texas" ; Times: 2
+	Query: "73464" ; Times: 1
+	Query: "specificepithet:namaquense genus:Cacosternum institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:guianensis genus:Pseudogonatodes institutioncode:LSUMZ" ; Times: 5
+	Query: "specificepithet:carens genus:Schismaderma institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:americanus genus:Odontophrynus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Odontophrynus" ; Times: 1
+	Query: "specificepithet:calamita genus:Bufo" ; Times: 1
+	Query: "specificepithet:quercicus genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:pulchra genus:Kaloula institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:dunni genus:Sphaerodactylus institutioncode:LSUMZ" ; Times: 4
+	Query: "Phyllodactylus palmeus" ; Times: 1
+	Query: "specificepithet:gratiosa genus:Hyla" ; Times: 1
+	Query: "specificepithet:bombina genus:Bombina institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:marmoreus genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "Coniophanes Jalisco" ; Times: 1
+	Query: "specificepithet:bifasciatus genus:Phrynomantis" ; Times: 1
+	Query: "specificepithet:rufescens genus:Hylophorbus institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Tantilla capistrata collectioncode:HERPS institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:podicipinus genus:Leptodactylus institutioncode:LSUMZ" ; Times: 1
+	Query: "&#34;senticolis triaspis&#34; country:united states" ; Times: 1
+	Query: "specificepithet:brimleyi genus:Pseudacris institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:colymbiphyllum genus:Hyalinobatrachium institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:ibarrai genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:talpoideum genus:ambystoma stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "specificepithet:cuvieri genus:Physalaemus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:californicus genus:Bufo" ; Times: 1
+	Query: "specificepithet:tuberculosus genus:Phyllodactylus institutioncode:LSUMZ" ; Times: 6
+	Query: "lsumz 22870" ; Times: 2
+	Query: "specificepithet:granulosus genus:Bufo" ; Times: 1
+	Query: "34814" ; Times: 1
+	Query: "specificepithet:sphenocephala genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "braminus country:&#34;brunei&#34;" ; Times: 6
+	Query: "34953" ; Times: 1
+	Query: "family:Centrolenidae (lsumz)" ; Times: 1
+	Query: "specificepithet:luetkenii genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:asper genus:Bufo" ; Times: 1
+	Query: "specificepithet:cornuta genus:Sphenophryne institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:majikthise genus:Litoria" ; Times: 1
+	Query: "specificepithet:goliath genus:Conraua institutioncode:LSUMZ" ; Times: 1
+	Query: "Sphaerodactylus dunni hassex:1" ; Times: 3
+	Query: "specificepithet:maculata genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:coccifer genus:Bufo" ; Times: 1
+	Query: "specificepithet:tomopterna genus:Phyllomedusa" ; Times: 1
+	Query: "specificepithet:hammondii genus:spea county:&#34;madera&#34;" ; Times: 1
+	Query: "87894" ; Times: 1
+	Query: "specificepithet:haematiticus genus:Bufo" ; Times: 1
+	Query: "specificepithet:couchii genus:Scaphiopus county:&#34;PIMA&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "gopherus country:&#34;Mexico&#34;" ; Times: 3
+	Query: "specificepithet:richmondi genus:Eleutherodactylus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:verruciger genus:Osteocephalus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:spatulatus genus:Triprion" ; Times: 1
+	Query: "&#34;lichanura trivirgata&#34; country:united states" ; Times: 1
+	Query: "specificepithet:cisternasii genus:Alytes institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:spinosa genus:Anotheca" ; Times: 1
+	Query: "specificepithet:melanonotus genus:Leptodactylus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:marnockii genus:Eleutherodactylus" ; Times: 1
+	Query: "specificepithet:sylvatica genus:rana stateprovince:&#34;maryland&#34;" ; Times: 1
+	Query: "specificepithet:crucifer genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Masticophis county:&#34;San luis Obispo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:occipitalis genus:Hoplobatrachus" ; Times: 1
+	Query: "specificepithet:microscaphus genus:Bufo" ; Times: 1
+	Query: "specificepithet:matudai genus:Plectrohyla" ; Times: 1
+	Query: "specificepithet:moreletii genus:Agalychnis institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:malabarica genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:capito genus:Rana" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Gastrophryne institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:punctatus genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:ibarrai genus:Bufo" ; Times: 1
+	Query: "specificepithet:pratti genus:Colostethus" ; Times: 1
+	Query: "specificepithet:chaquensis genus:Leptodactylus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:maculatus genus:Polypedates" ; Times: 1
+	Query: "specificepithet:brevis genus:Adelotus institutioncode:LSUMZ" ; Times: 1
+	Query: "Sphaerodactylus inaguae hassex:1" ; Times: 3
+	Query: "LSUMZ 937" ; Times: 1
+	Query: "specificepithet:obstetricans genus:Alytes institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:heckscheri genus:Rana" ; Times: 1
+	Query: "amastridium veliferum" ; Times: 2
+	Query: "specificepithet:natalensis genus:Phrynobatrachus institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:bicolor" ; Times: 1
+	Query: "specificepithet:cognatus genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "luteiventris Rana" ; Times: 1
+	Query: "specificepithet:woodhousii genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:americanus genus:Odontophrynus" ; Times: 1
+	Query: "micrurus nigrocinctus" ; Times: 1
+	Query: "specificepithet:wagneri genus:Leptodactylus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:monticola genus:Gastrotheca" ; Times: 1
+	Query: "Ctenosaura clarki" ; Times: 1
+	Query: "micrurus browni" ; Times: 2
+	Query: "specificepithet:grylio genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:quadramaculatus genus:desmognathus stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "Sceloporus cupreus" ; Times: 1
+	Query: "specificepithet:taurinus genus:Osteocephalus" ; Times: 1
+	Query: "catalognumber:98425 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:arenarum genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "order:Gymnophiona country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:pratti genus:Colostethus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:planirostris genus:Eleutherodactylus institutioncode:LSUMZ" ; Times: 1
+	Query: "lsu 84526" ; Times: 1
+	Query: "specificepithet:variolosus genus:Hypopachus institutioncode:LSUMZ" ; Times: 1
+	Query: "coluber cameron county texas" ; Times: 1
+	Query: "specificepithet:derongo genus:Austrochaperina institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:sagrei genus:anolis stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "catalognumber:26996 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:guentheri genus:Ceratobatrachus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:kisoloensis genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:houstonensis genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:achatina genus:Microhyla institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:verrucosus genus:Phlyctimantis institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:bassleri genus:Chiasmocleis institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:papuensis genus:Platymantis institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:microphyllus genus:Phyllodactylus institutioncode:LSUMZ" ; Times: 6
+	Query: "specificepithet:nigromaculata genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:88841 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:variabilis genus:Arthroleptis" ; Times: 1
+	Query: "specificepithet:houstonensis genus:Bufo" ; Times: 1
+	Query: "specificepithet:saltator genus:Agalychnis institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:borbonica genus:Leptophryne" ; Times: 1
+	Query: "specificepithet:munozorum genus:Hyalinobatrachium institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:taurinus genus:Osteocephalus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:zygaena genus:Sphaerodactylus institutioncode:LSUMZ" ; Times: 4
+	Query: "specificepithet:variegata genus:Bombina" ; Times: 1
+	Query: "specificepithet:kivuensis genus:Leptopelis institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:pardalis genus:Bufo" ; Times: 1
+	Query: "specificepithet:glaucus genus:Sphaerodactylus institutioncode:LSUMZ" ; Times: 4
+	Query: "specificepithet:geayi genus:Ctenophryne" ; Times: 1
+	Query: "specificepithet:modestus genus:Leptopelis institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:ovalis genus:Elachistocleis" ; Times: 1
+	Query: "specificepithet:carinatus genus:zaocys" ; Times: 2
+	Query: "h. nichols" ; Times: 7
+	Query: "specificepithet:quercicus genus:Bufo" ; Times: 1
+	Query: "catalognumber:19000 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:mascareniensis genus:Ptychadena institutioncode:LSUMZ" ; Times: 1
+	Query: "gopherus durango" ; Times: 1
+	Query: "catalognumber:19500 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:congenita genus:Litoria institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:castaneus genus:Hyperolius institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:spiculatus genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "LSUMZ Micrurus Honduras" ; Times: 1
+	Query: "specificepithet:krugi genus:anolis sex:male" ; Times: 1
+	Query: "specificepithet:roseus genus:Eupsophus" ; Times: 1
+	Query: "Sceloporus samcolemani" ; Times: 1
+	Query: "Shinisaurus crocodilurus" ; Times: 2
+	Query: "specificepithet:plicata genus:Hyla" ; Times: 1
+	Query: "Tantilla rubra" ; Times: 1
+	Query: "specificepithet:canorus genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;Mississippi&#34; year &gt;= 1975 year &lt;= 2020" ; Times: 2
+	Query: "Mesaspis juarezi" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "specificepithet:japonicus genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:mabouia genus:hemidactylus hastissue:1" ; Times: 3
+	Query: "specificepithet:debilis genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:plicata genus:Hyla institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:concinnatus genus:Gonatodes institutioncode:LSUMZ" ; Times: 6
+	Query: "specificepithet:thesaurensis genus:Litoria institutioncode:LSUMZ" ; Times: 1
+	Query: "Anelytropsis papillosus" ; Times: 1
+	Query: "gopherus sonora" ; Times: 2
+	Query: "specificepithet:vibicaria genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:brachyops genus:Pleurodema institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:lacerata genus:holbrookia county:&#34;kinney&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:kisoloensis genus:Bufo" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:Rana" ; Times: 1
+	Query: "specificepithet:luetkenii genus:Bufo" ; Times: 1
+	Query: "specificepithet:bubalus genus:Hemiphractus institutioncode:LSUMZ" ; Times: 1
+	Query: "LSUMZ 21873" ; Times: 2
+	Query: "catalognumber:99400 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:robustus genus:Trichobatrachus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:balbus genus:Cophixalus" ; Times: 1
+	Query: "specificepithet:avivoca genus:Hyla institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Callisaurus county:&#34;Riverside&#34;" ; Times: 2
+	Query: "specificepithet:philippinicus genus:Bufo" ; Times: 1
+	Query: "specificepithet:andersonii genus:Hyla institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:aurifasciatus genus:Philautus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:eneidae genus:Eleutherodactylus" ; Times: 1
+	Query: "specificepithet:thomsoni genus:Genyophryne institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:tomopterna genus:Phyllomedusa institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:LSUMZ" ; Times: 4
+	Query: "Plestiodon lagunensis" ; Times: 1
+	Query: "phrynosoma orbiculare" ; Times: 3
+	Query: "genus:clelia hastissue:1" ; Times: 1
+	Query: "specificepithet:inaguae genus:Sphaerodactylus institutioncode:LSUMZ" ; Times: 4
+	Query: "specificepithet:carolinensis genus:Gastrophryne" ; Times: 1
+	Query: "plethodon larselli" ; Times: 1
+	Query: "specificepithet:mystacinus genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:haematiticus genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:geayi genus:Ctenophryne institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:spatulatus genus:Triprion institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:aucoinae genus:Bufo" ; Times: 1
+	Query: "specificepithet:pipa genus:Pipa" ; Times: 1
+	Query: "specificepithet:gracilis genus:Physalaemus" ; Times: 1
+	Query: "specificepithet:natalensis genus:Phrynobatrachus" ; Times: 1
+	Query: "specificepithet:bolivianus genus:Leptodactylus institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Thecadactylus country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "specificepithet:fodiens genus:Smilisca institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:margaritifer genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:aurora genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:34215 institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:marnockii genus:Eleutherodactylus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:philippinicus genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:baleata genus:Kaloula" ; Times: 1
+	Query: "Dibamidae" ; Times: 1
+	Query: "specificepithet:celebensis genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:esculenta genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:abacura genus:farancia stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:saltator genus:Agalychnis" ; Times: 1
+	Query: "specificepithet:chloris genus:Litoria" ; Times: 1
+	Query: "specificepithet:quinquevittatus genus:Dendrobates institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:Axanthus genus:Pseudobranchus year &gt;= 1985" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:rhodomystax genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:chalconota genus:Rana" ; Times: 1
+	Query: "specificepithet:rufescens genus:Hylophorbus" ; Times: 1
+	Query: "specificepithet:chloris genus:Litoria institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:concolor genus:Hyperolius institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:macrocristatus genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:pentadactylus genus:Leptodactylus" ; Times: 1
+	Query: "Abronia taeniata" ; Times: 2
+	Query: "specificepithet:walkeri genus:Hyla institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:leprieurii genus:Osteocephalus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:bifasciatus genus:Phrynomantis institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:multiplicata genus:Spea institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Tantilla cucullata collectioncode:HERPS institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:marinus genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:kivuensis genus:Leptopelis" ; Times: 1
+	Query: "specificepithet:arenicolor genus:Hyla institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:perezi genus:Edalorhina" ; Times: 1
+	Query: "specificepithet:spinulosus genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "xantusia gracilis" ; Times: 2
+	Query: "specificepithet:hasseltii genus:Leptobrachium" ; Times: 1
+	Query: "specificepithet:maculatus genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:natator genus:Staurois" ; Times: 1
+	Query: "specificepithet:iberica genus:Rana" ; Times: 1
+	Query: "specificepithet:poncensis genus:anolis sex:male" ; Times: 1
+	Query: "specificepithet:berlandieri genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:stenodema genus:Leptodactylus institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Oxyrhopus hastissue:1" ; Times: 1
+	Query: "specificepithet:dalmatina genus:Rana" ; Times: 1
+	Query: "Lepidophyma sylvaticum" ; Times: 1
+	Query: "specificepithet:galeata genus:Gastrotheca" ; Times: 1
+	Query: "specificepithet:cultripes genus:Pelobates institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:ricordii genus:Eleutherodactylus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:rostellifer genus:Choerophryne institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:xanti genus:Phyllodactylus institutioncode:LSUMZ" ; Times: 6
+	Query: "specificepithet:galeata genus:Gastrotheca institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:pustulosa genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:palmipes genus:Austrochaperina institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:couchii genus:Scaphiopus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "order:Gymnophiona country:&#34;Peru&#34; month &gt;= 4 month &lt;= 5" ; Times: 1
+	Query: "specificepithet:arborea genus:Hyla institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:couchii genus:Scaphiopus county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Coleonyx reticulatus" ; Times: 1
+	Query: "class:Reptilia country:&#34;India&#34; hastissue:1" ; Times: 2
+	Query: "specificepithet:pentadactylus genus:Leptodactylus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:leytensis genus:Limnonectes" ; Times: 1
+	Query: "specificepithet:schlegelii genus:Rhacophorus institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:Sibon hastissue:1" ; Times: 1
+	Query: "LSUMZ 25898" ; Times: 2
+	Query: "specificepithet:arfaki genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "ophisaurus jackson" ; Times: 1
+	Query: "specificepithet:pustulosa genus:Rana" ; Times: 1
+	Query: "specificepithet:eucnemis genus:Litoria institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:goliath genus:Conraua" ; Times: 1
+	Query: "specificepithet:chiricahuensis genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:leucomystax genus:Polypedates institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:poeppigii genus:Bufo" ; Times: 1
+	Query: "specificepithet:boylii genus:Rana institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:grylio genus:Rana" ; Times: 1
+	Query: "specificepithet:weberi genus:Platymantis institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:spumarius genus:Atelopus" ; Times: 1
+	Query: "specificepithet:camerunensis genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:taylori genus:Rana" ; Times: 1
+	Query: "specificepithet:juliani genus:Rana" ; Times: 1
+	Query: "Plestiodon parvulus" ; Times: 1
+	Query: "specificepithet:robinsoni genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "storeria dekayi georgia" ; Times: 1
+	Query: "locality:gentilly" ; Times: 1
+	Query: "specificepithet:dunni genus:Rana" ; Times: 1
+	Query: "specificepithet:tinctorius genus:Dendrobates institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:pictus genus:Discoglossus" ; Times: 1
+	Query: "specificepithet:callidryas genus:Agalychnis institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:miliaris genus:Thoropa" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 5
+	Query: "specificepithet:latastei genus:Rana" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "specificepithet:spinosa genus:Anotheca institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;Wisconsin&#34; year &gt;= 1950" ; Times: 1
+	Query: "specificepithet:dacnicolor genus:Pachymedusa" ; Times: 1
+	Query: "specificepithet:petasatus genus:Triprion institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:interandinus genus:Phyllodactylus institutioncode:LSUMZ" ; Times: 6
+	Query: "specificepithet:ventrimaculata genus:Chiasmocleis institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:beebei genus:Bufo institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:meridionalis genus:Hylodes institutioncode:LSUMZ" ; Times: 1
+	Query: "&#34;senticolis triaspis&#34; arizona country:united states" ; Times: 1
+	Query: "arizona &#34;senticolis triaspis&#34; country:united states" ; Times: 1
+	Query: "specificepithet:montanus genus:Ascaphus" ; Times: 3
+	Query: "52543" ; Times: 1
+	Query: "acrochordus granulatus" ; Times: 3
+	Query: "specificepithet:difficilis genus:Sphaerodactylus institutioncode:LSUMZ" ; Times: 4
+	Query: "specificepithet:arfakiana genus:Litoria institutioncode:LSUMZ" ; Times: 1
+	Query: "Cyrtodactylus agusanensis" ; Times: 1
+	Query: "specificepithet:pipilans genus:Eleutherodactylus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:excubitor genus:Gastrotheca institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:juxtasper genus:Bufo" ; Times: 1
+	Query: "specificepithet:rubella genus:Litoria institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:daemeli genus:Rana" ; Times: 1
+	Query: "specificepithet:guttata genus:Austrochaperina institutioncode:LSUMZ" ; Times: 1
+	Query: "order:SQUAMATA county:&#34;FANNIN&#34; stateprovince:&#34;TEXAS&#34;" ; Times: 1
+	Query: "genus: scolecophis" ; Times: 1
+	Query: "specificepithet:ibericus genus:Pelodytes" ; Times: 1
+	Query: "blandingii illinois" ; Times: 1
+	Query: "specificepithet:mystacinus genus:Leptodactylus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:tellinii genus:Ptychadena" ; Times: 1
+	Query: "specificepithet:chiricahuensis genus:Rana" ; Times: 1
+	Query: "genus:batrachoseps county:&#34;riverside&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:heyeri genus:Noblella" ; Times: 1
+	Query: "specificepithet:congenita genus:Litoria" ; Times: 1
+	Query: "specificepithet:nigromaculata genus:Rana" ; Times: 1
+	Query: "Lepidophyma occulor" ; Times: 1
+	Query: "genus:Clelia hastissue:1" ; Times: 1
+	Query: "specificepithet:macrodon genus:Limnonectes institutioncode:LSUMZ" ; Times: 1
+	Query: "Pseudogonatodes barbouri hassex:1" ; Times: 4
+	Query: "Phrynosoma ditmarsi" ; Times: 1
+	Query: "specificepithet:mystaceus genus:Leptodactylus institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:lima genus:Occidozyga institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:adolfifriederici genus:Arthroleptis institutioncode:LSUMZ" ; Times: 1
+	Query: "anolis equestris skeleton" ; Times: 1
+	Query: "ramphotyphlops braminus country:&#34;Guinea&#34;" ; Times: 1
+	Query: "specificepithet:achatina genus:Microhyla" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 209 (out of 1584 download events in this period)
+Total number of records downloaded: 24972
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 157
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 24
+	Country: Unknown ; Times: 1
+	Country: Tanzania ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Rwanda ; Times: 1
+	Country: China ; Times: 17
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-08 ; Times: 5
+	Date: 2020-01-29 ; Times: 8
+	Date: 2020-01-02 ; Times: 1
+	Date: 2020-01-07 ; Times: 8
+	Date: 2020-01-06 ; Times: 3
+	Date: 2020-01-04 ; Times: 2
+	Date: 2020-01-21 ; Times: 2
+	Date: 2020-01-20 ; Times: 2
+	Date: 2020-01-09 ; Times: 5
+	Date: 2020-01-22 ; Times: 2
+	Date: 2020-01-25 ; Times: 36
+	Date: 2020-01-24 ; Times: 45
+	Date: 2020-01-27 ; Times: 2
+	Date: 2020-01-28 ; Times: 26
+	Date: 2020-01-19 ; Times: 3
+	Date: 2020-01-23 ; Times: 1
+	Date: 2020-01-14 ; Times: 1
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-16 ; Times: 5
+	Date: 2020-01-31 ; Times: 40
+	Date: 2020-01-10 ; Times: 5
+	Date: 2020-01-11 ; Times: 1
+	Date: 2020-01-13 ; Times: 1
+	Date: 2020-01-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "Sceloporus chaneyi" ; Times: 1
+	Query: "Sphaerodactylus cinereus" ; Times: 1
+	Query: "Lepidophyma sylvaticum" ; Times: 1
+	Query: "Plestiodon multivirgatus" ; Times: 1
+	Query: "Hemidactylus garnotii" ; Times: 3
+	Query: "ambystoma mexicanum" ; Times: 3
+	Query: "Ophisaurus incomptus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Plestiodon gilberti" ; Times: 1
+	Query: "Phrynosoma ditmarsi" ; Times: 1
+	Query: "specificepithet:sagrei genus:Anolis hastissue:1" ; Times: 1
+	Query: "Plestiodon septentrionalis" ; Times: 2
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Lipinia noctua" ; Times: 1
+	Query: "Anelytropsis papillosus" ; Times: 1
+	Query: "specificepithet:canorus" ; Times: 1
+	Query: "Psammodromus algirus" ; Times: 2
+	Query: "Enyalioides heterolepis" ; Times: 1
+	Query: "Sphaerodactylus glaucus" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Jalisco&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Laemanctus serratus" ; Times: 1
+	Query: "plethodon elongatus" ; Times: 1
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "Ctenosaura clarki" ; Times: 2
+	Query: "Drymobius margaritiferus" ; Times: 1
+	Query: "stateprovince:&#34;Tabasco&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:tau genus:Trimorphodon" ; Times: 1
+	Query: "Sphenomorphus indicus" ; Times: 1
+	Query: "Sceloporus cupreus" ; Times: 1
+	Query: "Drymobius rhombifer" ; Times: 1
+	Query: "Sceloporus grammicus" ; Times: 4
+	Query: "gopherus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "Macroprotodon cucullatus" ; Times: 1
+	Query: "Sceloporus oberon" ; Times: 1
+	Query: "Mesoscincus schwartzei" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus hastissue:1" ; Times: 3
+	Query: "Phyllodactylus xanti" ; Times: 1
+	Query: "Mesaspis juarezi" ; Times: 1
+	Query: "Podarcis muralis" ; Times: 1
+	Query: "Cyrtodactylus agusanensis" ; Times: 1
+	Query: "Leiocephalus carinatus" ; Times: 1
+	Query: "Sceloporus olloporus" ; Times: 1
+	Query: "Nactus pelagicus" ; Times: 1
+	Query: "plethodon vandykei" ; Times: 1
+	Query: "genus:Scaphiopus" ; Times: 1
+	Query: "Petrosaurus mearnsi" ; Times: 1
+	Query: "Ophisaurus mimicus" ; Times: 1
+	Query: "Sphaerodactylus millepunctatus" ; Times: 1
+	Query: "Emoia cyanura" ; Times: 2
+	Query: "Takydromus sexlineatus" ; Times: 1
+	Query: "Gehyra mutilata" ; Times: 3
+	Query: "Hemidactylus brookii" ; Times: 4
+	Query: "Gerrhonotus ophiurus" ; Times: 1
+	Query: "Sceloporus chrysostictus" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "Plestiodon egregius" ; Times: 1
+	Query: "Uma notata" ; Times: 1
+	Query: "Calotes mystaceus" ; Times: 1
+	Query: "specificepithet:areolata family:ranidae" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "Lepidophyma flavimaculatum" ; Times: 2
+	Query: "Crotaphytus reticulatus" ; Times: 1
+	Query: "Geagras" ; Times: 1
+	Query: "Lepidophyma gaigeae" ; Times: 1
+	Query: "Holbrookia elegans" ; Times: 1
+	Query: "Guadalajara class:Reptilia" ; Times: 1
+	Query: "Lamprolepis smaragdina" ; Times: 1
+	Query: "Lepidoblepharis xanthostigma" ; Times: 1
+	Query: "Tarentola mauritanica" ; Times: 1
+	Query: "stateprovince:&#34;Campeche&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Uma exsul" ; Times: 1
+	Query: "Mesaspis viridiflava" ; Times: 1
+	Query: "Sphaerodactylus rosaurae" ; Times: 1
+	Query: "genus:eurycea stateprovince:&#34;texas&#34; AND (quadridigitata) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Sceloporus megalepidurus" ; Times: 1
+	Query: "Coleonyx reticulatus" ; Times: 1
+	Query: "Basiliscus plumifrons" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anolis hastissue:1" ; Times: 1
+	Query: "plethodon dunni" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "Cyrtodactylus annulatus" ; Times: 1
+	Query: "Sceloporus orcutti" ; Times: 1
+	Query: "specificepithet:graciosus genus:Urosaurus" ; Times: 1
+	Query: "Dendrophidion percarinatum" ; Times: 1
+	Query: "plethodon larselli" ; Times: 1
+	Query: "Emoia atrocostata" ; Times: 1
+	Query: "ficimia texas" ; Times: 1
+	Query: "Draco bimaculatus" ; Times: 2
+	Query: "Sceloporus squamosus" ; Times: 1
+	Query: "specificepithet:xanti genus:Phyllodactylus" ; Times: 1
+	Query: "Gonatodes albogularis" ; Times: 1
+	Query: "Sceloporus marmoratus" ; Times: 1
+	Query: "ambystoma californiense" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "genus:eurycea stateprovince:&#34;texas&#34; AND (NOT quadridigitata) basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Scincella gemmingeri" ; Times: 1
+	Query: "xantusia henshawi" ; Times: 2
+	Query: "Cyclura cornuta" ; Times: 1
+	Query: "genus:Arthroleptis specificepithet:adolfifriederici" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "Sceloporus bicanthalis" ; Times: 1
+	Query: "Coleonyx elegans" ; Times: 1
+	Query: "Abronia taeniata" ; Times: 2
+	Query: "Sceloporus cozumelae" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "Sceloporus parvus" ; Times: 1
+	Query: "Sceloporus ornatus" ; Times: 1
+	Query: "genus:rana stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Sphenomorphus acutus" ; Times: 1
+	Query: "Ctenosaura oedirhina" ; Times: 1
+	Query: "Ophisaurus compressus" ; Times: 1
+	Query: "Basiliscus galeritus" ; Times: 1
+	Query: "Sceloporus cautus" ; Times: 1
+	Query: "Barisia imbricata" ; Times: 1
+	Query: "Plestiodon dugesii" ; Times: 1
+	Query: "Crotaphytus vestigium" ; Times: 1
+	Query: "Sphaerodactylus dunni" ; Times: 1
+	Query: "Sphenomorphus cranei" ; Times: 1
+	Query: "Meroles knoxii" ; Times: 2
+	Query: "deirochelys" ; Times: 1
+	Query: "Lacerta agilis" ; Times: 1
+	Query: "Basiliscus basiliscus" ; Times: 1
+	Query: "stateprovince:&#34;Quintana Roo&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Tropidurus hispidus" ; Times: 1
+	Query: "Thamnophis sirtalis county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sceloporus nelsoni" ; Times: 1
+	Query: "Emoia impar" ; Times: 1
+	Query: "genus:Micrurus country:&#34;México&#34;" ; Times: 2
+	Query: "Gymnophthalmus speciosus" ; Times: 1
+	Query: "Uma inornata" ; Times: 1
+	Query: "cordylidae" ; Times: 1
+	Query: "Sceloporus utiformis" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 5
+	Query: "Malacochersus tornieri" ; Times: 4
+	Query: "Sceloporus cryptus" ; Times: 1
+	Query: "Ctenosaura melanosterna" ; Times: 1
+	Query: "Plestiodon parvulus" ; Times: 1
+	Query: "Phyllodactylus palmeus" ; Times: 1
+	Query: "Calotes versicolor" ; Times: 1
+	Query: "genus:cryptobranchus" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;Wisconsin&#34; year &gt;= 1950" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Gambelia sila" ; Times: 1
+	Query: "Plestiodon lagunensis" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Jalisco&#34;" ; Times: 1
+	Query: "Sceloporus samcolemani" ; Times: 1
+	Query: "Gekko gecko" ; Times: 3
+	Query: "class:Reptilia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Scincella caudaequinae" ; Times: 1
+	Query: "Japalura polygonata" ; Times: 1
+	Query: "Sphaerodactylus notatus" ; Times: 1
+	Query: "Sphaerodactylus argus" ; Times: 1
+	Query: "Coleonyx mitratus" ; Times: 1
+	Query: "Plestiodon anthracinus" ; Times: 1
+	Query: "Tropidonophis" ; Times: 1
+	Query: "Guadalajara class:Amphibia" ; Times: 1
+	Query: "Sceloporus gadoviae" ; Times: 1
+	Query: "specificepithet:maculatus genus:Draco" ; Times: 1
+	Query: "Lepidophyma occulor" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "specificepithet:Cornutum genus:Phrynosoma year &gt;= 1800 year &lt;= 1959" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis county:&#34;san mateo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Sceloporus woodi" ; Times: 1
+	Query: "rainier" ; Times: 1
+	Query: "arizona &#34;senticolis triaspis&#34; country:united states" ; Times: 1
+	Query: "Plestiodon copei" ; Times: 1
+
+
+End of report.
